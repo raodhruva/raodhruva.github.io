@@ -1,0 +1,837 @@
+season,year,medal,country_code,country,athletes,games,sport,event_gender,event_name
+Summer,1896,Gold,USA,United States,Thomas BURKE,1896 Athens,Athletics,Men's,100m
+Summer,1896,Bronze,USA,United States,Francis LANE,1896 Athens,Athletics,Men's,100m
+Summer,1896,Gold,USA,United States,Thomas BURKE,1896 Athens,Athletics,Men's,400m
+Summer,1896,Silver,USA,United States,Herbert JAMISON,1896 Athens,Athletics,Men's,400m
+Summer,1896,Silver,USA,United States,Arthur BLAKE,1896 Athens,Athletics,Men's,1500m
+Summer,1896,Gold,USA,United States,Thomas CURTIS,1896 Athens,Athletics,Men's,110m hurdles
+Summer,1896,Gold,USA,United States,Ellery CLARK,1896 Athens,Athletics,Men's,long jump
+Summer,1896,Silver,USA,United States,Robert GARRETT,1896 Athens,Athletics,Men's,long jump
+Summer,1896,Bronze,USA,United States,James CONNOLLY,1896 Athens,Athletics,Men's,long jump
+Summer,1896,Gold,USA,United States,James CONNOLLY,1896 Athens,Athletics,Men's,triple jump
+Summer,1896,Gold,USA,United States,Ellery CLARK,1896 Athens,Athletics,Men's,high jump
+Summer,1896,Silver,USA,United States,James CONNOLLY,1896 Athens,Athletics,Men's,high jump
+Summer,1896,Silver,USA,United States,Robert GARRETT,1896 Athens,Athletics,Men's,high jump
+Summer,1896,Gold,USA,United States,William Welles HOYT,1896 Athens,Athletics,Men's,pole vault
+Summer,1896,Silver,USA,United States,Albert TYLER,1896 Athens,Athletics,Men's,pole vault
+Summer,1896,Gold,USA,United States,Robert GARRETT,1896 Athens,Athletics,Men's,shot put
+Summer,1896,Gold,USA,United States,Robert GARRETT,1896 Athens,Athletics,Men's,discus throw
+Summer,1900,Gold,USA,United States,Alvin KRAENZLEIN,1900 Paris,Athletics,Men's,60m
+Summer,1900,Silver,USA,United States,Walter B. John TEWKSBURY,1900 Paris,Athletics,Men's,60m
+Summer,1900,Gold,USA,United States,Francis JARVIS,1900 Paris,Athletics,Men's,100m
+Summer,1900,Silver,USA,United States,Walter B. John TEWKSBURY,1900 Paris,Athletics,Men's,100m
+Summer,1900,Gold,USA,United States,Walter B. John TEWKSBURY,1900 Paris,Athletics,Men's,200m
+Summer,1900,Gold,USA,United States,Maxwell W.Maxey LONG,1900 Paris,Athletics,Men's,400m
+Summer,1900,Silver,USA,United States,William HOLLAND,1900 Paris,Athletics,Men's,400m
+Summer,1900,Silver,USA,United States,John CREGAN,1900 Paris,Athletics,Men's,800m
+Summer,1900,Bronze,USA,United States,David HALL,1900 Paris,Athletics,Men's,800m
+Summer,1900,Bronze,USA,United States,John BRAY,1900 Paris,Athletics,Men's,1500m
+Summer,1900,Gold,USA,United States,Alvin KRAENZLEIN,1900 Paris,Athletics,Men's,110m hurdles
+Summer,1900,Silver,USA,United States,John MCLEAN,1900 Paris,Athletics,Men's,110m hurdles
+Summer,1900,Bronze,USA,United States,Frederick MOLONEY,1900 Paris,Athletics,Men's,110m hurdles
+Summer,1900,Gold,USA,United States,Alvin KRAENZLEIN,1900 Paris,Athletics,Men's,200m hurdles
+Summer,1900,Bronze,USA,United States,Walter B. John TEWKSBURY,1900 Paris,Athletics,Men's,200m hurdles
+Summer,1900,Gold,USA,United States,Walter B. John TEWKSBURY,1900 Paris,Athletics,Men's,400m hurdles
+Summer,1900,Gold,USA,United States,Alvin KRAENZLEIN,1900 Paris,Athletics,Men's,long jump
+Summer,1900,Silver,USA,United States,Meyer PRINSTEIN,1900 Paris,Athletics,Men's,long jump
+Summer,1900,Gold,USA,United States,Ray EWRY,1900 Paris,Athletics,Men's,long jump
+Summer,1900,Silver,USA,United States,Irving BAXTER,1900 Paris,Athletics,Men's,long jump
+Summer,1900,Gold,USA,United States,Meyer PRINSTEIN,1900 Paris,Athletics,Men's,triple jump
+Summer,1900,Silver,USA,United States,James CONNOLLY,1900 Paris,Athletics,Men's,triple jump
+Summer,1900,Bronze,USA,United States,Lewis Pendleton SHELDON,1900 Paris,Athletics,Men's,triple jump
+Summer,1900,Gold,USA,United States,Ray EWRY,1900 Paris,Athletics,Men's,triple jump
+Summer,1900,Silver,USA,United States,Irving BAXTER,1900 Paris,Athletics,Men's,triple jump
+Summer,1900,Bronze,USA,United States,Robert GARRETT,1900 Paris,Athletics,Men's,triple jump
+Summer,1900,Gold,USA,United States,Irving BAXTER,1900 Paris,Athletics,Men's,high jump
+Summer,1900,Gold,USA,United States,Ray EWRY,1900 Paris,Athletics,Men's,high jump
+Summer,1900,Silver,USA,United States,Irving BAXTER,1900 Paris,Athletics,Men's,high jump
+Summer,1900,Bronze,USA,United States,Lewis Pendleton SHELDON,1900 Paris,Athletics,Men's,high jump
+Summer,1900,Gold,USA,United States,Irving BAXTER,1900 Paris,Athletics,Men's,pole vault
+Summer,1900,Silver,USA,United States,Meredith Bright COLKETT,1900 Paris,Athletics,Men's,pole vault
+Summer,1900,Gold,USA,United States,Richard SHELDON,1900 Paris,Athletics,Men's,shot put
+Summer,1900,Silver,USA,United States,Josiah MCCRACKEN,1900 Paris,Athletics,Men's,shot put
+Summer,1900,Bronze,USA,United States,Robert GARRETT,1900 Paris,Athletics,Men's,shot put
+Summer,1900,Bronze,USA,United States,Richard SHELDON,1900 Paris,Athletics,Men's,discus throw
+Summer,1900,Gold,USA,United States,John Jesus FLANAGAN,1900 Paris,Athletics,Men's,hammer throw
+Summer,1900,Silver,USA,United States,Thomas Truxton HARE,1900 Paris,Athletics,Men's,hammer throw
+Summer,1900,Bronze,USA,United States,Josiah MCCRACKEN,1900 Paris,Athletics,Men's,hammer throw
+Summer,1904,Gold,USA,United States,Archie HAHN,1904 St Louis,Athletics,Men's,60m
+Summer,1904,Silver,USA,United States,William HOGENSON,1904 St Louis,Athletics,Men's,60m
+Summer,1904,Bronze,USA,United States,Fay MOULTON,1904 St Louis,Athletics,Men's,60m
+Summer,1904,Gold,USA,United States,Archie HAHN,1904 St Louis,Athletics,Men's,100m
+Summer,1904,Silver,USA,United States,John Nathaniel CARTMELL,1904 St Louis,Athletics,Men's,100m
+Summer,1904,Bronze,USA,United States,William HOGENSON,1904 St Louis,Athletics,Men's,100m
+Summer,1904,Gold,USA,United States,Archie HAHN,1904 St Louis,Athletics,Men's,200m
+Summer,1904,Silver,USA,United States,John Nathaniel CARTMELL,1904 St Louis,Athletics,Men's,200m
+Summer,1904,Bronze,USA,United States,William HOGENSON,1904 St Louis,Athletics,Men's,200m
+Summer,1904,Gold,USA,United States,Harry HILLMAN,1904 St Louis,Athletics,Men's,400m
+Summer,1904,Silver,USA,United States,Frank WALLER,1904 St Louis,Athletics,Men's,400m
+Summer,1904,Bronze,USA,United States,Herman GROMAN,1904 St Louis,Athletics,Men's,400m
+Summer,1904,Gold,USA,United States,James LIGHTBODY,1904 St Louis,Athletics,Men's,800m
+Summer,1904,Silver,USA,United States,Howard VALENTINE,1904 St Louis,Athletics,Men's,800m
+Summer,1904,Bronze,USA,United States,Emil BREITKREUTZ,1904 St Louis,Athletics,Men's,800m
+Summer,1904,Gold,USA,United States,James LIGHTBODY,1904 St Louis,Athletics,Men's,1500m
+Summer,1904,Silver,USA,United States,William Frank VERNER,1904 St Louis,Athletics,Men's,1500m
+Summer,1904,Bronze,USA,United States,Lacey HEARN,1904 St Louis,Athletics,Men's,1500m
+Summer,1904,Gold,USA,United States,Thomas HICKS,1904 St Louis,Athletics,Men's,marathon
+Summer,1904,Bronze,USA,United States,Arthur NEWTON,1904 St Louis,Athletics,Men's,marathon
+Summer,1904,Gold,USA,United States,Frederick SCHULE,1904 St Louis,Athletics,Men's,110m hurdles
+Summer,1904,Silver,USA,United States,Thaddeus SHIDELER,1904 St Louis,Athletics,Men's,110m hurdles
+Summer,1904,Bronze,USA,United States,Lesley ASHBURNER,1904 St Louis,Athletics,Men's,110m hurdles
+Summer,1904,Gold,USA,United States,Harry HILLMAN,1904 St Louis,Athletics,Men's,200m hurdles
+Summer,1904,Silver,USA,United States,Frank CASTLEMAN,1904 St Louis,Athletics,Men's,200m hurdles
+Summer,1904,Bronze,USA,United States,George POAGE,1904 St Louis,Athletics,Men's,200m hurdles
+Summer,1904,Gold,USA,United States,Harry HILLMAN,1904 St Louis,Athletics,Men's,400m hurdles
+Summer,1904,Silver,USA,United States,Frank WALLER,1904 St Louis,Athletics,Men's,400m hurdles
+Summer,1904,Bronze,USA,United States,George POAGE,1904 St Louis,Athletics,Men's,400m hurdles
+Summer,1904,Gold,USA,United States,James LIGHTBODY,1904 St Louis,Athletics,Men's,2590m steeplechase
+Summer,1904,Bronze,USA,United States,Arthur NEWTON,1904 St Louis,Athletics,Men's,2590m steeplechase
+Summer,1904,Gold,USA,United States,"Arthur NEWTON, Paul Harry PILGRIM, David Curtis MUNSON, George UNDERWOOD, Howard VALENTINE",1904 St Louis,Athletics,Men's,4miles team
+Summer,1904,Silver,USA,United States,"William Frank VERNER (USA), Sidney HATCH (USA), James LIGHTBODY (USA), Lacey HEARN (USA), Albert CORAY (FRA)",1904 St Louis,Athletics,Men's,4miles team
+Summer,1904,Gold,USA,United States,Meyer PRINSTEIN,1904 St Louis,Athletics,Men's,long jump
+Summer,1904,Silver,USA,United States,Daniel FRANK,1904 St Louis,Athletics,Men's,long jump
+Summer,1904,Bronze,USA,United States,Robert STANGLAND,1904 St Louis,Athletics,Men's,long jump
+Summer,1904,Gold,USA,United States,Ray EWRY,1904 St Louis,Athletics,Men's,long jump
+Summer,1904,Silver,USA,United States,Charles KING,1904 St Louis,Athletics,Men's,long jump
+Summer,1904,Bronze,USA,United States,John BILLER,1904 St Louis,Athletics,Men's,long jump
+Summer,1904,Gold,USA,United States,Meyer PRINSTEIN,1904 St Louis,Athletics,Men's,triple jump
+Summer,1904,Silver,USA,United States,Frederick ENGLEHARDT,1904 St Louis,Athletics,Men's,triple jump
+Summer,1904,Bronze,USA,United States,Robert STANGLAND,1904 St Louis,Athletics,Men's,triple jump
+Summer,1904,Gold,USA,United States,Ray EWRY,1904 St Louis,Athletics,Men's,triple jump
+Summer,1904,Silver,USA,United States,Charles KING,1904 St Louis,Athletics,Men's,triple jump
+Summer,1904,Bronze,USA,United States,Joseph F. STADLER,1904 St Louis,Athletics,Men's,triple jump
+Summer,1904,Gold,USA,United States,Samuel JONES,1904 St Louis,Athletics,Men's,high jump
+Summer,1904,Silver,USA,United States,Garrett SERVISS,1904 St Louis,Athletics,Men's,high jump
+Summer,1904,Gold,USA,United States,Ray EWRY,1904 St Louis,Athletics,Men's,high jump
+Summer,1904,Silver,USA,United States,Joseph F. STADLER,1904 St Louis,Athletics,Men's,high jump
+Summer,1904,Bronze,USA,United States,Lawson N. ROBERTSON,1904 St Louis,Athletics,Men's,high jump
+Summer,1904,Gold,USA,United States,Charles DVORAK,1904 St Louis,Athletics,Men's,pole vault
+Summer,1904,Silver,USA,United States,Leroy SAMSE,1904 St Louis,Athletics,Men's,pole vault
+Summer,1904,Bronze,USA,United States,Louis WILKINS,1904 St Louis,Athletics,Men's,pole vault
+Summer,1904,Gold,USA,United States,Martin SHERIDAN,1904 St Louis,Athletics,Men's,discus throw
+Summer,1904,Silver,USA,United States,Ralph ROSE,1904 St Louis,Athletics,Men's,discus throw
+Summer,1904,Gold,USA,United States,John Jesus FLANAGAN,1904 St Louis,Athletics,Men's,hammer throw
+Summer,1904,Silver,USA,United States,John DEWITT,1904 St Louis,Athletics,Men's,hammer throw
+Summer,1904,Bronze,USA,United States,Ralph ROSE,1904 St Louis,Athletics,Men's,hammer throw
+Summer,1904,Gold,USA,United States,Ralph ROSE,1904 St Louis,Athletics,Men's,shot put
+Summer,1904,Silver,USA,United States,William Wesley COE,1904 St Louis,Athletics,Men's,shot put
+Summer,1904,Bronze,USA,United States,Lawrence E. Joseph FEUERBACH,1904 St Louis,Athletics,Men's,shot put
+Summer,1904,Silver,USA,United States,John Jesus FLANAGAN,1904 St Louis,Athletics,Men's,56lb weight throw (25.4kg)
+Summer,1904,Bronze,USA,United States,James MITCHELL,1904 St Louis,Athletics,Men's,56lb weight throw (25.4kg)
+Summer,1904,Gold,USA,United States,Max EMMERICH,1904 St Louis,Athletics,Men's,triathlon (long jump / shot put / 100 yards)
+Summer,1904,Silver,USA,United States,John GRIEB,1904 St Louis,Athletics,Men's,triathlon (long jump / shot put / 100 yards)
+Summer,1904,Bronze,USA,United States,William MERZ,1904 St Louis,Athletics,Men's,triathlon (long jump / shot put / 100 yards)
+Summer,1904,Silver,USA,United States,Adam GUNN,1904 St Louis,Athletics,Men's,decathlon
+Summer,1904,Bronze,USA,United States,Thomas Truxton HARE,1904 St Louis,Athletics,Men's,decathlon
+Summer,1908,Silver,USA,United States,James RECTOR,1908 London,Athletics,Men's,100m
+Summer,1908,Silver,USA,United States,Robert CLOUGHEN,1908 London,Athletics,Men's,200m
+Summer,1908,Bronze,USA,United States,John Nathaniel CARTMELL,1908 London,Athletics,Men's,200m
+Summer,1908,Gold,USA,United States,Melvin SHEPPARD,1908 London,Athletics,Men's,800m
+Summer,1908,Gold,USA,United States,Melvin SHEPPARD,1908 London,Athletics,Men's,1500m
+Summer,1908,Gold,USA,United States,John Joseph HAYES,1908 London,Athletics,Men's,marathon
+Summer,1908,Bronze,USA,United States,Joseph FORSHAW,1908 London,Athletics,Men's,marathon
+Summer,1908,Gold,USA,United States,"William Frank HAMILTON, John Baxter TAYLOR, John Nathaniel CARTMELL, Melvin SHEPPARD",1908 London,Athletics,Men's,200m+200m+400m+800m medley relay
+Summer,1908,Silver,USA,United States,"George V. BONHAG, John Lincoln EISELE, Herbert Lawrence TRUBE",1908 London,Athletics,Men's,3miles team (4828m)
+Summer,1908,Gold,USA,United States,Forrest SMITHSON,1908 London,Athletics,Men's,110m hurdles
+Summer,1908,Silver,USA,United States,John Carlyle GARRELS,1908 London,Athletics,Men's,110m hurdles
+Summer,1908,Bronze,USA,United States,Arthur SHAW,1908 London,Athletics,Men's,110m hurdles
+Summer,1908,Gold,USA,United States,Charles Joseph BACON,1908 London,Athletics,Men's,400m hurdles
+Summer,1908,Silver,USA,United States,Harry HILLMAN,1908 London,Athletics,Men's,400m hurdles
+Summer,1908,Bronze,USA,United States,John Lincoln EISELE,1908 London,Athletics,Men's,3200m steeplechase
+Summer,1908,Gold,USA,United States,Francis C. IRONS,1908 London,Athletics,Men's,long jump
+Summer,1908,Silver,USA,United States,Daniel KELLY,1908 London,Athletics,Men's,long jump
+Summer,1908,Gold,USA,United States,Ray EWRY,1908 London,Athletics,Men's,long jump
+Summer,1908,Bronze,USA,United States,Martin SHERIDAN,1908 London,Athletics,Men's,long jump
+Summer,1908,Gold,USA,United States,Harry Franklin PORTER,1908 London,Athletics,Men's,high jump
+Summer,1908,Gold,USA,United States,Ray EWRY,1908 London,Athletics,Men's,high jump
+Summer,1908,Silver,USA,United States,John BILLER,1908 London,Athletics,Men's,high jump
+Summer,1908,Gold,USA,United States,Alfred Carleten GILBERT,1908 London,Athletics,Men's,pole vault
+Summer,1908,Gold,USA,United States,Edward Tiffin COOKE,1908 London,Athletics,Men's,pole vault
+Summer,1908,Bronze,USA,United States,Charles Sherman JACOBS,1908 London,Athletics,Men's,pole vault
+Summer,1908,Gold,USA,United States,Martin SHERIDAN,1908 London,Athletics,Men's,discus throw
+Summer,1908,Silver,USA,United States,Merritt Hayward GIFFIN,1908 London,Athletics,Men's,discus throw
+Summer,1908,Bronze,USA,United States,Marquis Franklin HORR,1908 London,Athletics,Men's,discus throw
+Summer,1908,Gold,USA,United States,Martin SHERIDAN,1908 London,Athletics,Men's,discus throw ancient style
+Summer,1908,Silver,USA,United States,Marquis Franklin HORR,1908 London,Athletics,Men's,discus throw ancient style
+Summer,1908,Gold,USA,United States,John Jesus FLANAGAN,1908 London,Athletics,Men's,hammer throw
+Summer,1908,Silver,USA,United States,Matthew J. MCGRATH,1908 London,Athletics,Men's,hammer throw
+Summer,1908,Gold,USA,United States,Ralph ROSE,1908 London,Athletics,Men's,shot put
+Summer,1908,Bronze,USA,United States,John Carlyle GARRELS,1908 London,Athletics,Men's,shot put
+Summer,1912,Gold,USA,United States,Ralph CRAIG,1912 Stockholm,Athletics,Men's,100m
+Summer,1912,Silver,USA,United States,I. Alvah MEYER,1912 Stockholm,Athletics,Men's,100m
+Summer,1912,Bronze,USA,United States,Donald LIPPINCOTT,1912 Stockholm,Athletics,Men's,100m
+Summer,1912,Gold,USA,United States,Ralph CRAIG,1912 Stockholm,Athletics,Men's,200m
+Summer,1912,Silver,USA,United States,Donald LIPPINCOTT,1912 Stockholm,Athletics,Men's,200m
+Summer,1912,Gold,USA,United States,Charles Decker REIDPATH,1912 Stockholm,Athletics,Men's,400m
+Summer,1912,Bronze,USA,United States,Edward F. LINDBERG,1912 Stockholm,Athletics,Men's,400m
+Summer,1912,Gold,USA,United States,James Edwin MEREDITH,1912 Stockholm,Athletics,Men's,800m
+Summer,1912,Silver,USA,United States,Melvin SHEPPARD,1912 Stockholm,Athletics,Men's,800m
+Summer,1912,Bronze,USA,United States,Ira Nelson DAVENPORT,1912 Stockholm,Athletics,Men's,800m
+Summer,1912,Silver,USA,United States,Abel KIVIAT,1912 Stockholm,Athletics,Men's,1500m
+Summer,1912,Bronze,USA,United States,Norman TABER,1912 Stockholm,Athletics,Men's,1500m
+Summer,1912,Silver,USA,United States,Lewis TEWANINA,1912 Stockholm,Athletics,Men's,10000m
+Summer,1912,Bronze,USA,United States,Gaston STROBINO,1912 Stockholm,Athletics,Men's,marathon
+Summer,1912,Gold,USA,United States,Frederick KELLY,1912 Stockholm,Athletics,Men's,110m hurdles
+Summer,1912,Silver,USA,United States,James WENDELL,1912 Stockholm,Athletics,Men's,110m hurdles
+Summer,1912,Bronze,USA,United States,Martin HAWKINS,1912 Stockholm,Athletics,Men's,110m hurdles
+Summer,1912,Gold,USA,United States,"Melvin SHEPPARD, James Edwin MEREDITH, Edward F. LINDBERG, Charles Decker REIDPATH",1912 Stockholm,Athletics,Men's,4x400m relay
+Summer,1912,Gold,USA,United States,"Abel KIVIAT, Tell Schirnding BERNA, George V. BONHAG, Henry Louis SCOTT, Norman TABER",1912 Stockholm,Athletics,Men's,3000m team
+Summer,1912,Gold,USA,United States,Albert Lovejoy GUTTERSON,1912 Stockholm,Athletics,Men's,long jump
+Summer,1912,Silver,USA,United States,Platt ADAMS,1912 Stockholm,Athletics,Men's,long jump
+Summer,1912,Bronze,USA,United States,Benjamin W. ADAMS,1912 Stockholm,Athletics,Men's,long jump
+Summer,1912,Gold,USA,United States,Alma Wilfred RICHARDS,1912 Stockholm,Athletics,Men's,high jump
+Summer,1912,Bronze,USA,United States,George Leslie HORINE,1912 Stockholm,Athletics,Men's,high jump
+Summer,1912,Gold,USA,United States,Platt ADAMS,1912 Stockholm,Athletics,Men's,high jump
+Summer,1912,Silver,USA,United States,Benjamin W. ADAMS,1912 Stockholm,Athletics,Men's,high jump
+Summer,1912,Gold,USA,United States,Harry Stoddard BABCOCK,1912 Stockholm,Athletics,Men's,pole vault
+Summer,1912,Silver,USA,United States,Frank Thayer NELSON,1912 Stockholm,Athletics,Men's,pole vault
+Summer,1912,Silver,USA,United States,Marc Snowell WRIGHT,1912 Stockholm,Athletics,Men's,pole vault
+Summer,1912,Bronze,USA,United States,Frank Dwyer MURPHY,1912 Stockholm,Athletics,Men's,pole vault
+Summer,1912,Silver,USA,United States,Richard Leslie BYRD,1912 Stockholm,Athletics,Men's,discus throw
+Summer,1912,Bronze,USA,United States,James Henry DUNCAN,1912 Stockholm,Athletics,Men's,discus throw
+Summer,1912,Gold,USA,United States,Matthew J. MCGRATH,1912 Stockholm,Athletics,Men's,hammer throw
+Summer,1912,Bronze,USA,United States,Clarence Chester CHILDS,1912 Stockholm,Athletics,Men's,hammer throw
+Summer,1912,Gold,USA,United States,Patrick MCDONALD,1912 Stockholm,Athletics,Men's,shot put
+Summer,1912,Silver,USA,United States,Ralph ROSE,1912 Stockholm,Athletics,Men's,shot put
+Summer,1912,Bronze,USA,United States,Laurence Atwood WHITNEY,1912 Stockholm,Athletics,Men's,shot put
+Summer,1912,Gold,USA,United States,Ralph ROSE,1912 Stockholm,Athletics,Men's,"shot put, both hands"
+Summer,1912,Silver,USA,United States,Patrick MCDONALD,1912 Stockholm,Athletics,Men's,"shot put, both hands"
+Summer,1912,Gold,USA,United States,Jim THORPE,1912 Stockholm,Athletics,Men's,pentathlon
+Summer,1912,Silver,USA,United States,James Joseph DONAHUE,1912 Stockholm,Athletics,Men's,pentathlon
+Summer,1912,Gold,USA,United States,Jim THORPE,1912 Stockholm,Athletics,Men's,decathlon
+Summer,1920,Gold,USA,United States,Charles PADDOCK,1920 Antwerp,Athletics,Men's,100m
+Summer,1920,Silver,USA,United States,Morris KIRKSEY,1920 Antwerp,Athletics,Men's,100m
+Summer,1920,Gold,USA,United States,Allen WOODRING,1920 Antwerp,Athletics,Men's,200m
+Summer,1920,Silver,USA,United States,Charles PADDOCK,1920 Antwerp,Athletics,Men's,200m
+Summer,1920,Silver,USA,United States,Earl EBY,1920 Antwerp,Athletics,Men's,800m
+Summer,1920,Bronze,USA,United States,Marion Lawrence SHIELDS,1920 Antwerp,Athletics,Men's,1500m
+Summer,1920,Silver,USA,United States,Harold BARRON,1920 Antwerp,Athletics,Men's,110m hurdles
+Summer,1920,Bronze,USA,United States,Frederick MURRAY,1920 Antwerp,Athletics,Men's,110m hurdles
+Summer,1920,Gold,USA,United States,Frank LOOMIS,1920 Antwerp,Athletics,Men's,400m hurdles
+Summer,1920,Silver,USA,United States,John Kelley NORTON,1920 Antwerp,Athletics,Men's,400m hurdles
+Summer,1920,Bronze,USA,United States,August George DESCH,1920 Antwerp,Athletics,Men's,400m hurdles
+Summer,1920,Silver,USA,United States,Patrick FLYNN,1920 Antwerp,Athletics,Men's,3000m steeplechase
+Summer,1920,Gold,USA,United States,"Charles PADDOCK, Loren MURCHISON, Jackson SCHOLZ, Morris KIRKSEY",1920 Antwerp,Athletics,Men's,4x100m relay
+Summer,1920,Gold,USA,United States,"Horace Hallock BROWN, Ivan DRESSER, Arlie Alfred SCHARDT",1920 Antwerp,Athletics,Men's,3000m team
+Summer,1920,Bronze,USA,United States,Richard Frederick REMER,1920 Antwerp,Athletics,Men's,3000m walk
+Summer,1920,Silver,USA,United States,Joseph PEARMAN,1920 Antwerp,Athletics,Men's,10000m walk
+Summer,1920,Silver,USA,United States,Carl JOHNSON,1920 Antwerp,Athletics,Men's,long jump
+Summer,1920,Gold,USA,United States,Richmond LANDON,1920 Antwerp,Athletics,Men's,high jump
+Summer,1920,Silver,USA,United States,Harold MULLER,1920 Antwerp,Athletics,Men's,high jump
+Summer,1920,Gold,USA,United States,Frank FOSS,1920 Antwerp,Athletics,Men's,pole vault
+Summer,1920,Bronze,USA,United States,Edwin MYERS,1920 Antwerp,Athletics,Men's,pole vault
+Summer,1920,Bronze,USA,United States,Harry LIVERSEDGE,1920 Antwerp,Athletics,Men's,shot put
+Summer,1920,Bronze,USA,United States,Augustus POPE,1920 Antwerp,Athletics,Men's,discus throw
+Summer,1920,Gold,USA,United States,Patrick RYAN,1920 Antwerp,Athletics,Men's,hammer throw
+Summer,1920,Bronze,USA,United States,Basil BENNET,1920 Antwerp,Athletics,Men's,hammer throw
+Summer,1920,Gold,USA,United States,Patrick MCDONALD,1920 Antwerp,Athletics,Men's,56lb weight throw (25.4kg)
+Summer,1920,Silver,USA,United States,Patrick RYAN,1920 Antwerp,Athletics,Men's,56lb weight throw (25.4kg)
+Summer,1920,Silver,USA,United States,Everett Lewis BRADLEY,1920 Antwerp,Athletics,Men's,pentathlon
+Summer,1920,Silver,USA,United States,Brutus Kerr HAMILTON,1920 Antwerp,Athletics,Men's,decathlon
+Summer,1924,Silver,USA,United States,Jackson SCHOLZ,1924 Paris,Athletics,Men's,100m
+Summer,1924,Gold,USA,United States,Jackson SCHOLZ,1924 Paris,Athletics,Men's,200m
+Summer,1924,Silver,USA,United States,Charles PADDOCK,1924 Paris,Athletics,Men's,200m
+Summer,1924,Silver,USA,United States,Horatio FITCH,1924 Paris,Athletics,Men's,400m
+Summer,1924,Bronze,USA,United States,Schuyler ENCK,1924 Paris,Athletics,Men's,800m
+Summer,1924,Bronze,USA,United States,Clarence DEMAR,1924 Paris,Athletics,Men's,marathon
+Summer,1924,Bronze,USA,United States,Richard Earl JOHNSON,1924 Paris,Athletics,Men's,cross country individual
+Summer,1924,Silver,USA,United States,"Verne Hobson BOOTH, Richard Earl JOHNSON, John GRAY, James HENIGAN, August FAGER, Arthur STUDENROTH",1924 Paris,Athletics,Men's,cross country team
+Summer,1924,Gold,USA,United States,Daniel KINSEY,1924 Paris,Athletics,Men's,110m hurdles
+Summer,1924,Gold,USA,United States,Morgan TAYLOR,1924 Paris,Athletics,Men's,400m hurdles
+Summer,1924,Bronze,USA,United States,Ivan RILEY,1924 Paris,Athletics,Men's,400m hurdles
+Summer,1924,Gold,USA,United States,"Loren MURCHISON, Al LECONEY, Louis CLARKE, Frank HUSSEY",1924 Paris,Athletics,Men's,4x100m relay
+Summer,1924,Gold,USA,United States,"William STEVENSON, Oliver MACDONALD, Commodore COCHRAN, Alan HELFFRICH",1924 Paris,Athletics,Men's,4x400m relay
+Summer,1924,Bronze,USA,United States,"Leo LARRIVEE, James CONNOLLY, Willard TIBBETTS, Joseph RAY, Edward KIRBY, William COX",1924 Paris,Athletics,Men's,3000m team
+Summer,1924,Gold,USA,United States,William De Hart HUBBARD,1924 Paris,Athletics,Men's,long jump
+Summer,1924,Silver,USA,United States,Edward Orval GOURDIN,1924 Paris,Athletics,Men's,long jump
+Summer,1924,Gold,USA,United States,Harold OSBORN,1924 Paris,Athletics,Men's,high jump
+Summer,1924,Silver,USA,United States,Leroy BROWN,1924 Paris,Athletics,Men's,high jump
+Summer,1924,Gold,USA,United States,Lee BARNES,1924 Paris,Athletics,Men's,pole vault
+Summer,1924,Silver,USA,United States,Glenn GRAHAM,1924 Paris,Athletics,Men's,pole vault
+Summer,1924,Bronze,USA,United States,James BROOKER,1924 Paris,Athletics,Men's,pole vault
+Summer,1924,Gold,USA,United States,Bud HOUSER,1924 Paris,Athletics,Men's,shot put
+Summer,1924,Silver,USA,United States,Glenn HARTRANFT,1924 Paris,Athletics,Men's,shot put
+Summer,1924,Bronze,USA,United States,Ralph HILLS,1924 Paris,Athletics,Men's,shot put
+Summer,1924,Gold,USA,United States,Bud HOUSER,1924 Paris,Athletics,Men's,discus throw
+Summer,1924,Bronze,USA,United States,Thomas LIEB,1924 Paris,Athletics,Men's,discus throw
+Summer,1924,Gold,USA,United States,Fred TOOTELL,1924 Paris,Athletics,Men's,hammer throw
+Summer,1924,Silver,USA,United States,Matt MCGRATH,1924 Paris,Athletics,Men's,hammer throw
+Summer,1924,Bronze,USA,United States,Eugene OBERST,1924 Paris,Athletics,Men's,javelin throw
+Summer,1924,Bronze,USA,United States,Robert Lucien LE GENDRE,1924 Paris,Athletics,Men's,pentathlon
+Summer,1924,Gold,USA,United States,Harold OSBORN,1924 Paris,Athletics,Men's,decathlon
+Summer,1924,Silver,USA,United States,Emerson NORTON,1924 Paris,Athletics,Men's,decathlon
+Summer,1928,Gold,USA,United States,Raymond James BARBUTI,1928 Amsterdam,Athletics,Men's,400m
+Summer,1928,Silver,USA,United States,Steve ANDERSON,1928 Amsterdam,Athletics,Men's,110m hurdles
+Summer,1928,Bronze,USA,United States,John COLLIER,1928 Amsterdam,Athletics,Men's,110m hurdles
+Summer,1928,Silver,USA,United States,Frank CUHEL,1928 Amsterdam,Athletics,Men's,400m hurdles
+Summer,1928,Bronze,USA,United States,Morgan TAYLOR,1928 Amsterdam,Athletics,Men's,400m hurdles
+Summer,1928,Gold,USA,United States,"Charles Edward BORAH, Frank WYKOFF, James QUINN, Henry RUSSELL",1928 Amsterdam,Athletics,Men's,4x100m relay
+Summer,1928,Gold,USA,United States,"Raymond James BARBUTI, George BAIRD, Emerson SPENCER, Fred ALDERMAN",1928 Amsterdam,Athletics,Men's,4x400m relay
+Summer,1928,Gold,USA,United States,Edward Barton HAMM,1928 Amsterdam,Athletics,Men's,long jump
+Summer,1928,Bronze,USA,United States,Al BATES,1928 Amsterdam,Athletics,Men's,long jump
+Summer,1928,Silver,USA,United States,Levi CASEY,1928 Amsterdam,Athletics,Men's,triple jump
+Summer,1928,Gold,USA,United States,Robert Wade KING,1928 Amsterdam,Athletics,Men's,high jump
+Summer,1928,Silver,USA,United States,Ben HEDGES,1928 Amsterdam,Athletics,Men's,high jump
+Summer,1928,Gold,USA,United States,Sabin CARR,1928 Amsterdam,Athletics,Men's,pole vault
+Summer,1928,Silver,USA,United States,William Herbert DROEGEMUELLER,1928 Amsterdam,Athletics,Men's,pole vault
+Summer,1928,Bronze,USA,United States,Charles MCGINNIS,1928 Amsterdam,Athletics,Men's,pole vault
+Summer,1928,Gold,USA,United States,John KUCK,1928 Amsterdam,Athletics,Men's,shot put
+Summer,1928,Silver,USA,United States,Herman BRIX,1928 Amsterdam,Athletics,Men's,shot put
+Summer,1928,Gold,USA,United States,Bud HOUSER,1928 Amsterdam,Athletics,Men's,discus throw
+Summer,1928,Bronze,USA,United States,James CORSON,1928 Amsterdam,Athletics,Men's,discus throw
+Summer,1928,Bronze,USA,United States,Edmund BLACK,1928 Amsterdam,Athletics,Men's,hammer throw
+Summer,1928,Bronze,USA,United States,John Kenneth DOHERTY,1928 Amsterdam,Athletics,Men's,decathlon
+Summer,1928,Gold,USA,United States,Elizabeth ROBINSON,1928 Amsterdam,Athletics,Women's,100m
+Summer,1928,Silver,USA,United States,"Mary WASHBURN, Elizabeth ROBINSON, Loretta MCNEIL, Jessica West CROSS",1928 Amsterdam,Athletics,Women's,4x100m relay
+Summer,1928,Bronze,USA,United States,Mildred WILEY,1928 Amsterdam,Athletics,Women's,high jump
+Summer,1928,Silver,USA,United States,Lillian COPELAND,1928 Amsterdam,Athletics,Women's,discus throw
+Summer,1932,Gold,USA,United States,Eddie TOLAN,1932 Los Angeles,Athletics,Men's,100m
+Summer,1932,Silver,USA,United States,Ralph METCALFE,1932 Los Angeles,Athletics,Men's,100m
+Summer,1932,Gold,USA,United States,Eddie TOLAN,1932 Los Angeles,Athletics,Men's,200m
+Summer,1932,Silver,USA,United States,George SIMPSON,1932 Los Angeles,Athletics,Men's,200m
+Summer,1932,Bronze,USA,United States,Ralph METCALFE,1932 Los Angeles,Athletics,Men's,200m
+Summer,1932,Gold,USA,United States,William Arthur CARR,1932 Los Angeles,Athletics,Men's,400m
+Summer,1932,Silver,USA,United States,Benjamin Bangs EASTMAN,1932 Los Angeles,Athletics,Men's,400m
+Summer,1932,Silver,USA,United States,Ralph HILL,1932 Los Angeles,Athletics,Men's,5000m
+Summer,1932,Gold,USA,United States,George SALING,1932 Los Angeles,Athletics,Men's,110m hurdles
+Summer,1932,Silver,USA,United States,Percy BEARD,1932 Los Angeles,Athletics,Men's,110m hurdles
+Summer,1932,Silver,USA,United States,Glenn HARDIN,1932 Los Angeles,Athletics,Men's,400m hurdles
+Summer,1932,Bronze,USA,United States,Morgan TAYLOR,1932 Los Angeles,Athletics,Men's,400m hurdles
+Summer,1932,Bronze,USA,United States,Joseph MCCLUSKEY,1932 Los Angeles,Athletics,Men's,3000m steeplechase
+Summer,1932,Gold,USA,United States,"Hector DYER, Emmett TOPPINO, Frank WYKOFF, Robert Allan KIESEL",1932 Los Angeles,Athletics,Men's,4x100m relay
+Summer,1932,Gold,USA,United States,"Ivan FUQUA, William Arthur CARR, Edgar ABLOWICH, Karl WARNER",1932 Los Angeles,Athletics,Men's,4x400m relay
+Summer,1932,Gold,USA,United States,Edward Lansing GORDON,1932 Los Angeles,Athletics,Men's,long jump
+Summer,1932,Silver,USA,United States,Lambert REDD,1932 Los Angeles,Athletics,Men's,long jump
+Summer,1932,Silver,USA,United States,Robert VAN OSDEL,1932 Los Angeles,Athletics,Men's,high jump
+Summer,1932,Gold,USA,United States,William Waring MILLER,1932 Los Angeles,Athletics,Men's,pole vault
+Summer,1932,Bronze,USA,United States,George JEFFERSON,1932 Los Angeles,Athletics,Men's,pole vault
+Summer,1932,Gold,USA,United States,Leo SEXTON,1932 Los Angeles,Athletics,Men's,shot put
+Summer,1932,Silver,USA,United States,Harlow ROTHERT,1932 Los Angeles,Athletics,Men's,shot put
+Summer,1932,Gold,USA,United States,John ANDERSON,1932 Los Angeles,Athletics,Men's,discus throw
+Summer,1932,Silver,USA,United States,Henri LABORDE,1932 Los Angeles,Athletics,Men's,discus throw
+Summer,1932,Bronze,USA,United States,Peter ZAREMBA,1932 Los Angeles,Athletics,Men's,hammer throw
+Summer,1932,Gold,USA,United States,Jim BAUSCH,1932 Los Angeles,Athletics,Men's,decathlon
+Summer,1932,Bronze,USA,United States,Wilhelmina VON BREMEN,1932 Los Angeles,Athletics,Women's,100m
+Summer,1932,Gold,USA,United States,Mildred DIDRIKSON,1932 Los Angeles,Athletics,Women's,80m hurdles
+Summer,1932,Silver,USA,United States,Evelyne HALL,1932 Los Angeles,Athletics,Women's,80m hurdles
+Summer,1932,Gold,USA,United States,"Mary CAREW, Annette ROGERS, Wilhelmina VON BREMEN, Evelyn FURTSCH",1932 Los Angeles,Athletics,Women's,4x100m relay
+Summer,1932,Gold,USA,United States,Jean SHILEY,1932 Los Angeles,Athletics,Women's,high jump
+Summer,1932,Silver,USA,United States,Mildred DIDRIKSON,1932 Los Angeles,Athletics,Women's,high jump
+Summer,1932,Gold,USA,United States,Lillian COPELAND,1932 Los Angeles,Athletics,Women's,discus throw
+Summer,1932,Silver,USA,United States,Ruth OSBURN,1932 Los Angeles,Athletics,Women's,discus throw
+Summer,1932,Gold,USA,United States,Mildred DIDRIKSON,1932 Los Angeles,Athletics,Women's,javelin throw
+Summer,1936,Gold,USA,United States,Jesse OWENS,1936 Berlin,Athletics,Men's,100m
+Summer,1936,Silver,USA,United States,Ralph METCALFE,1936 Berlin,Athletics,Men's,100m
+Summer,1936,Gold,USA,United States,Jesse OWENS,1936 Berlin,Athletics,Men's,200m
+Summer,1936,Silver,USA,United States,Matthew Mackenzie ROBINSON,1936 Berlin,Athletics,Men's,200m
+Summer,1936,Gold,USA,United States,Archibald Franklin WILLIAMS,1936 Berlin,Athletics,Men's,400m
+Summer,1936,Bronze,USA,United States,James Ellis LU VALLE,1936 Berlin,Athletics,Men's,400m
+Summer,1936,Gold,USA,United States,John WOODRUFF,1936 Berlin,Athletics,Men's,800m
+Summer,1936,Silver,USA,United States,Glenn CUNNINGHAM,1936 Berlin,Athletics,Men's,1500m
+Summer,1936,Gold,USA,United States,Forrest TOWNS,1936 Berlin,Athletics,Men's,110m hurdles
+Summer,1936,Bronze,USA,United States,Fritz POLLARD,1936 Berlin,Athletics,Men's,110m hurdles
+Summer,1936,Gold,USA,United States,Glenn HARDIN,1936 Berlin,Athletics,Men's,400m hurdles
+Summer,1936,Gold,USA,United States,"Ralph METCALFE, Foy DRAPER, Jesse OWENS, Frank WYKOFF",1936 Berlin,Athletics,Men's,4x100m relay
+Summer,1936,Silver,USA,United States,"Alfred FITCH, Robert YOUNG, Harold CAGLE, Edward O'BRIEN",1936 Berlin,Athletics,Men's,4x400m relay
+Summer,1936,Gold,USA,United States,Jesse OWENS,1936 Berlin,Athletics,Men's,long jump
+Summer,1936,Gold,USA,United States,Cornelius JOHNSON,1936 Berlin,Athletics,Men's,high jump
+Summer,1936,Silver,USA,United States,Dave ALBRITTON,1936 Berlin,Athletics,Men's,high jump
+Summer,1936,Bronze,USA,United States,Delos THURBER,1936 Berlin,Athletics,Men's,high jump
+Summer,1936,Gold,USA,United States,Earle MEADOWS,1936 Berlin,Athletics,Men's,pole vault
+Summer,1936,Gold,USA,United States,William Kenneth CARPENTER,1936 Berlin,Athletics,Men's,discus throw
+Summer,1936,Silver,USA,United States,Gordon DUNN,1936 Berlin,Athletics,Men's,discus throw
+Summer,1936,Gold,USA,United States,Glenn MORRIS,1936 Berlin,Athletics,Men's,decathlon
+Summer,1936,Silver,USA,United States,Robert Hyatt CLARK,1936 Berlin,Athletics,Men's,decathlon
+Summer,1936,Bronze,USA,United States,Jack PARKER,1936 Berlin,Athletics,Men's,decathlon
+Summer,1936,Gold,USA,United States,Helen STEPHENS,1936 Berlin,Athletics,Women's,100m
+Summer,1936,Gold,USA,United States,"Helen STEPHENS, Harriet BLAND, Annette ROGERS, Elizabeth ROBINSON",1936 Berlin,Athletics,Women's,4x100m relay
+Summer,1948,Gold,USA,United States,Harrison DILLARD,1948 London,Athletics,Men's,100m
+Summer,1948,Silver,USA,United States,Barney EWELL,1948 London,Athletics,Men's,100m
+Summer,1948,Gold,USA,United States,Mel PATTON,1948 London,Athletics,Men's,200m
+Summer,1948,Silver,USA,United States,Barney EWELL,1948 London,Athletics,Men's,200m
+Summer,1948,Bronze,USA,United States,Mal WHITFIELD,1948 London,Athletics,Men's,400m
+Summer,1948,Gold,USA,United States,Mal WHITFIELD,1948 London,Athletics,Men's,800m
+Summer,1948,Gold,USA,United States,Bill PORTER,1948 London,Athletics,Men's,110m hurdles
+Summer,1948,Silver,USA,United States,Clyde SCOTT,1948 London,Athletics,Men's,110m hurdles
+Summer,1948,Bronze,USA,United States,Craig DIXON,1948 London,Athletics,Men's,110m hurdles
+Summer,1948,Gold,USA,United States,Roy Braxton COCHRAN,1948 London,Athletics,Men's,400m hurdles
+Summer,1948,Gold,USA,United States,"Lorenzo WRIGHT, Barney EWELL, Harrison DILLARD, Mel PATTON",1948 London,Athletics,Men's,4x100m relay
+Summer,1948,Gold,USA,United States,"Roy Braxton COCHRAN, Mal WHITFIELD, Arthur Harold HARNDEN, Clifford Frederick BOURLAND",1948 London,Athletics,Men's,4x400m relay
+Summer,1948,Gold,USA,United States,William Samuel STEELE,1948 London,Athletics,Men's,long jump
+Summer,1948,Bronze,USA,United States,Herbert Paul Jr. DOUGLAS,1948 London,Athletics,Men's,long jump
+Summer,1948,Bronze,USA,United States,George STANICH,1948 London,Athletics,Men's,high jump
+Summer,1948,Gold,USA,United States,Guinn SMITH,1948 London,Athletics,Men's,pole vault
+Summer,1948,Bronze,USA,United States,Bob RICHARDS,1948 London,Athletics,Men's,pole vault
+Summer,1948,Gold,USA,United States,Wilbur THOMPSON,1948 London,Athletics,Men's,shot put
+Summer,1948,Silver,USA,United States,Francis James DELANEY,1948 London,Athletics,Men's,shot put
+Summer,1948,Bronze,USA,United States,James FUCHS,1948 London,Athletics,Men's,shot put
+Summer,1948,Bronze,USA,United States,Fortune GORDIEN,1948 London,Athletics,Men's,discus throw
+Summer,1948,Bronze,USA,United States,Robert Howard BENNETT,1948 London,Athletics,Men's,hammer throw
+Summer,1948,Silver,USA,United States,Steve SEYMOUR,1948 London,Athletics,Men's,javelin throw
+Summer,1948,Gold,USA,United States,Bob MATHIAS,1948 London,Athletics,Men's,decathlon
+Summer,1948,Bronze,USA,United States,Floyd SIMMONS,1948 London,Athletics,Men's,decathlon
+Summer,1948,Bronze,USA,United States,Audrey PATTERSON,1948 London,Athletics,Women's,200m
+Summer,1948,Gold,USA,United States,Alice COACHMAN,1948 London,Athletics,Women's,high jump
+Summer,1952,Gold,USA,United States,Lindy REMIGINO,1952 Helsinki,Athletics,Men's,100m
+Summer,1952,Gold,USA,United States,Andy STANFIELD,1952 Helsinki,Athletics,Men's,200m
+Summer,1952,Silver,USA,United States,Thane BAKER,1952 Helsinki,Athletics,Men's,200m
+Summer,1952,Bronze,USA,United States,James GATHERS,1952 Helsinki,Athletics,Men's,200m
+Summer,1952,Bronze,USA,United States,Ollie MATSON,1952 Helsinki,Athletics,Men's,400m
+Summer,1952,Gold,USA,United States,Mal WHITFIELD,1952 Helsinki,Athletics,Men's,800m
+Summer,1952,Silver,USA,United States,Robert MCMILLEN,1952 Helsinki,Athletics,Men's,1500m
+Summer,1952,Gold,USA,United States,Harrison DILLARD,1952 Helsinki,Athletics,Men's,110m hurdles
+Summer,1952,Silver,USA,United States,Jack DAVIS,1952 Helsinki,Athletics,Men's,110m hurdles
+Summer,1952,Bronze,USA,United States,Arthur BARNARD,1952 Helsinki,Athletics,Men's,110m hurdles
+Summer,1952,Gold,USA,United States,Charles Hewes Jr. MOORE,1952 Helsinki,Athletics,Men's,400m hurdles
+Summer,1952,Gold,USA,United States,Horace ASHENFELTER,1952 Helsinki,Athletics,Men's,3000m steeplechase
+Summer,1952,Gold,USA,United States,"Lindy REMIGINO, Harrison DILLARD, Dean SMITH, Andy STANFIELD",1952 Helsinki,Athletics,Men's,4x100m relay
+Summer,1952,Silver,USA,United States,"Mal WHITFIELD, Ollie MATSON, Gerrard Eugene COLE, Charles Hewes Jr. MOORE",1952 Helsinki,Athletics,Men's,4x400m relay
+Summer,1952,Gold,USA,United States,Jerome BIFFLE,1952 Helsinki,Athletics,Men's,long jump
+Summer,1952,Silver,USA,United States,Meredith GOURDINE,1952 Helsinki,Athletics,Men's,long jump
+Summer,1952,Gold,USA,United States,Walt DAVIS,1952 Helsinki,Athletics,Men's,high jump
+Summer,1952,Silver,USA,United States,Kenneth WIESNER,1952 Helsinki,Athletics,Men's,high jump
+Summer,1952,Gold,USA,United States,Bob RICHARDS,1952 Helsinki,Athletics,Men's,pole vault
+Summer,1952,Silver,USA,United States,Don LAZ,1952 Helsinki,Athletics,Men's,pole vault
+Summer,1952,Gold,USA,United States,Parry O'BRIEN,1952 Helsinki,Athletics,Men's,shot put
+Summer,1952,Silver,USA,United States,Darrow Clarence HOOPER,1952 Helsinki,Athletics,Men's,shot put
+Summer,1952,Bronze,USA,United States,James FUCHS,1952 Helsinki,Athletics,Men's,shot put
+Summer,1952,Gold,USA,United States,Sim INESS,1952 Helsinki,Athletics,Men's,discus throw
+Summer,1952,Bronze,USA,United States,James DILLION,1952 Helsinki,Athletics,Men's,discus throw
+Summer,1952,Gold,USA,United States,Cy YOUNG,1952 Helsinki,Athletics,Men's,javelin throw
+Summer,1952,Silver,USA,United States,William Preston MILLER,1952 Helsinki,Athletics,Men's,javelin throw
+Summer,1952,Gold,USA,United States,Bob MATHIAS,1952 Helsinki,Athletics,Men's,decathlon
+Summer,1952,Silver,USA,United States,Milton Gray CAMPBELL,1952 Helsinki,Athletics,Men's,decathlon
+Summer,1952,Bronze,USA,United States,Floyd SIMMONS,1952 Helsinki,Athletics,Men's,decathlon
+Summer,1952,Gold,USA,United States,"Janet MOREAU, Mae FAGGS, Barbara JONES, Catherine HARDY",1952 Helsinki,Athletics,Women's,4x100m relay
+Summer,1956,Gold,USA,United States,Bobby MORROW,1956 Melbourne / Stockholm,Athletics,Men's,100m
+Summer,1956,Silver,USA,United States,Thane BAKER,1956 Melbourne / Stockholm,Athletics,Men's,100m
+Summer,1956,Gold,USA,United States,Bobby MORROW,1956 Melbourne / Stockholm,Athletics,Men's,200m
+Summer,1956,Silver,USA,United States,Andy STANFIELD,1956 Melbourne / Stockholm,Athletics,Men's,200m
+Summer,1956,Bronze,USA,United States,Thane BAKER,1956 Melbourne / Stockholm,Athletics,Men's,200m
+Summer,1956,Gold,USA,United States,Charles JENKINS,1956 Melbourne / Stockholm,Athletics,Men's,400m
+Summer,1956,Gold,USA,United States,Thomas COURTNEY,1956 Melbourne / Stockholm,Athletics,Men's,800m
+Summer,1956,Gold,USA,United States,Lee CALHOUN,1956 Melbourne / Stockholm,Athletics,Men's,110m hurdles
+Summer,1956,Silver,USA,United States,Jack DAVIS,1956 Melbourne / Stockholm,Athletics,Men's,110m hurdles
+Summer,1956,Bronze,USA,United States,Joel SHANKLE,1956 Melbourne / Stockholm,Athletics,Men's,110m hurdles
+Summer,1956,Gold,USA,United States,Glenn DAVIS,1956 Melbourne / Stockholm,Athletics,Men's,400m hurdles
+Summer,1956,Silver,USA,United States,Eddie SOUTHERN,1956 Melbourne / Stockholm,Athletics,Men's,400m hurdles
+Summer,1956,Bronze,USA,United States,Josh CULBREATH,1956 Melbourne / Stockholm,Athletics,Men's,400m hurdles
+Summer,1956,Gold,USA,United States,"Leamon KING, Thane BAKER, Bobby MORROW, Ira MURCHISON",1956 Melbourne / Stockholm,Athletics,Men's,4x100m relay
+Summer,1956,Gold,USA,United States,"Thomas COURTNEY, Jesse MASHBURN, Charles JENKINS, Lou JONES",1956 Melbourne / Stockholm,Athletics,Men's,4x400m relay
+Summer,1956,Gold,USA,United States,Gregory Curtis BELL,1956 Melbourne / Stockholm,Athletics,Men's,long jump
+Summer,1956,Silver,USA,United States,John BENNETT,1956 Melbourne / Stockholm,Athletics,Men's,long jump
+Summer,1956,Gold,USA,United States,Charles DUMAS,1956 Melbourne / Stockholm,Athletics,Men's,high jump
+Summer,1956,Gold,USA,United States,Bob RICHARDS,1956 Melbourne / Stockholm,Athletics,Men's,pole vault
+Summer,1956,Silver,USA,United States,Bob GUTOWSKI,1956 Melbourne / Stockholm,Athletics,Men's,pole vault
+Summer,1956,Gold,USA,United States,Parry O'BRIEN,1956 Melbourne / Stockholm,Athletics,Men's,shot put
+Summer,1956,Silver,USA,United States,William NIEDER,1956 Melbourne / Stockholm,Athletics,Men's,shot put
+Summer,1956,Gold,USA,United States,Al OERTER,1956 Melbourne / Stockholm,Athletics,Men's,discus throw
+Summer,1956,Silver,USA,United States,Fortune GORDIEN,1956 Melbourne / Stockholm,Athletics,Men's,discus throw
+Summer,1956,Bronze,USA,United States,Desmond KOCH,1956 Melbourne / Stockholm,Athletics,Men's,discus throw
+Summer,1956,Gold,USA,United States,Harold CONNOLLY,1956 Melbourne / Stockholm,Athletics,Men's,hammer throw
+Summer,1956,Gold,USA,United States,Milton Gray CAMPBELL,1956 Melbourne / Stockholm,Athletics,Men's,decathlon
+Summer,1956,Silver,USA,United States,Rafer JOHNSON,1956 Melbourne / Stockholm,Athletics,Men's,decathlon
+Summer,1956,Bronze,USA,United States,"Wilma RUDOLPH, Isabelle DANIELS, Mae FAGGS, Margaret MATTHEWS",1956 Melbourne / Stockholm,Athletics,Women's,4x100m relay
+Summer,1956,Silver,USA,United States,Willye WHITE,1956 Melbourne / Stockholm,Athletics,Women's,long jump
+Summer,1956,Gold,USA,United States,Mildred MCDANIEL,1956 Melbourne / Stockholm,Athletics,Women's,high jump
+Summer,1960,Silver,USA,United States,Dave SIME,1960 Rome,Athletics,Men's,100m
+Summer,1960,Silver,USA,United States,Lester Nelson CARNEY,1960 Rome,Athletics,Men's,200m
+Summer,1960,Gold,USA,United States,Otis DAVIS,1960 Rome,Athletics,Men's,400m
+Summer,1960,Gold,USA,United States,Lee CALHOUN,1960 Rome,Athletics,Men's,110m hurdles
+Summer,1960,Silver,USA,United States,Willie MAY,1960 Rome,Athletics,Men's,110m hurdles
+Summer,1960,Bronze,USA,United States,Hayes JONES,1960 Rome,Athletics,Men's,110m hurdles
+Summer,1960,Gold,USA,United States,Glenn DAVIS,1960 Rome,Athletics,Men's,400m hurdles
+Summer,1960,Silver,USA,United States,Clifton Emmett CUSHMAN,1960 Rome,Athletics,Men's,400m hurdles
+Summer,1960,Bronze,USA,United States,Richard HOWARD,1960 Rome,Athletics,Men's,400m hurdles
+Summer,1960,Gold,USA,United States,"Otis DAVIS, Glenn DAVIS, Jack YERMAN, Earl YOUNG",1960 Rome,Athletics,Men's,4x400m relay
+Summer,1960,Gold,USA,United States,Ralph BOSTON,1960 Rome,Athletics,Men's,long jump
+Summer,1960,Silver,USA,United States,Irvin ROBERSON,1960 Rome,Athletics,Men's,long jump
+Summer,1960,Bronze,USA,United States,John THOMAS,1960 Rome,Athletics,Men's,high jump
+Summer,1960,Gold,USA,United States,Don BRAGG,1960 Rome,Athletics,Men's,pole vault
+Summer,1960,Silver,USA,United States,Ronald MORRIS,1960 Rome,Athletics,Men's,pole vault
+Summer,1960,Gold,USA,United States,William NIEDER,1960 Rome,Athletics,Men's,shot put
+Summer,1960,Silver,USA,United States,Parry O'BRIEN,1960 Rome,Athletics,Men's,shot put
+Summer,1960,Bronze,USA,United States,Dallas LONG,1960 Rome,Athletics,Men's,shot put
+Summer,1960,Gold,USA,United States,Al OERTER,1960 Rome,Athletics,Men's,discus throw
+Summer,1960,Silver,USA,United States,Rink BABKA,1960 Rome,Athletics,Men's,discus throw
+Summer,1960,Bronze,USA,United States,Richard COCHRAN,1960 Rome,Athletics,Men's,discus throw
+Summer,1960,Gold,USA,United States,Rafer JOHNSON,1960 Rome,Athletics,Men's,decathlon
+Summer,1960,Gold,USA,United States,Wilma RUDOLPH,1960 Rome,Athletics,Women's,100m
+Summer,1960,Gold,USA,United States,Wilma RUDOLPH,1960 Rome,Athletics,Women's,200m
+Summer,1960,Gold,USA,United States,"Martha HUDSON, Barbara JONES, Wilma RUDOLPH, Lucinda WILLIAMS",1960 Rome,Athletics,Women's,4x100m relay
+Summer,1960,Bronze,USA,United States,Earlene BROWN,1960 Rome,Athletics,Women's,shot put
+Summer,1964,Gold,USA,United States,Bob HAYES,1964 Tokyo,Athletics,Men's,100m
+Summer,1964,Gold,USA,United States,Henry CARR,1964 Tokyo,Athletics,Men's,200m
+Summer,1964,Silver,USA,United States,Paul DRAYTON,1964 Tokyo,Athletics,Men's,200m
+Summer,1964,Gold,USA,United States,Mike LARRABEE,1964 Tokyo,Athletics,Men's,400m
+Summer,1964,Gold,USA,United States,Robert Keyser SCHUL,1964 Tokyo,Athletics,Men's,5000m
+Summer,1964,Bronze,USA,United States,Bill DELLINGER,1964 Tokyo,Athletics,Men's,5000m
+Summer,1964,Gold,USA,United States,Billy MILLS,1964 Tokyo,Athletics,Men's,10000m
+Summer,1964,Gold,USA,United States,Hayes JONES,1964 Tokyo,Athletics,Men's,110m hurdles
+Summer,1964,Silver,USA,United States,Blaine LINDGREN,1964 Tokyo,Athletics,Men's,110m hurdles
+Summer,1964,Gold,USA,United States,Warren (Rex) Jay CAWLEY,1964 Tokyo,Athletics,Men's,400m hurdles
+Summer,1964,Gold,USA,United States,"Bob HAYES, Gerald Howard ASHWORTH, Paul DRAYTON, Richard STEBBINS",1964 Tokyo,Athletics,Men's,4x100m relay
+Summer,1964,Gold,USA,United States,"Ulis WILLIAMS, Henry CARR, Mike LARRABEE, Ollan CASSELL",1964 Tokyo,Athletics,Men's,4x400m relay
+Summer,1964,Silver,USA,United States,Ralph BOSTON,1964 Tokyo,Athletics,Men's,long jump
+Summer,1964,Silver,USA,United States,John THOMAS,1964 Tokyo,Athletics,Men's,high jump
+Summer,1964,Bronze,USA,United States,John RAMBO,1964 Tokyo,Athletics,Men's,high jump
+Summer,1964,Gold,USA,United States,Fred HANSEN,1964 Tokyo,Athletics,Men's,pole vault
+Summer,1964,Gold,USA,United States,Dallas LONG,1964 Tokyo,Athletics,Men's,shot put
+Summer,1964,Silver,USA,United States,Randy MATSON,1964 Tokyo,Athletics,Men's,shot put
+Summer,1964,Gold,USA,United States,Al OERTER,1964 Tokyo,Athletics,Men's,discus throw
+Summer,1964,Bronze,USA,United States,David Lawson WEILL,1964 Tokyo,Athletics,Men's,discus throw
+Summer,1964,Gold,USA,United States,Wyomia TYUS,1964 Tokyo,Athletics,Women's,100m
+Summer,1964,Silver,USA,United States,Edith MCGUIRE,1964 Tokyo,Athletics,Women's,100m
+Summer,1964,Gold,USA,United States,Edith MCGUIRE,1964 Tokyo,Athletics,Women's,200m
+Summer,1964,Silver,USA,United States,"Edith MCGUIRE, Wyomia TYUS, Willye WHITE, Marilyn WHITE",1964 Tokyo,Athletics,Women's,4x100m relay
+Summer,1968,Gold,USA,United States,Jim HINES,1968 Mexico,Athletics,Men's,100m
+Summer,1968,Bronze,USA,United States,Charlie GREENE,1968 Mexico,Athletics,Men's,100m
+Summer,1968,Gold,USA,United States,Tommie SMITH,1968 Mexico,Athletics,Men's,200m
+Summer,1968,Bronze,USA,United States,John CARLOS,1968 Mexico,Athletics,Men's,200m
+Summer,1968,Gold,USA,United States,Lee EVANS,1968 Mexico,Athletics,Men's,400m
+Summer,1968,Silver,USA,United States,Larry JAMES,1968 Mexico,Athletics,Men's,400m
+Summer,1968,Bronze,USA,United States,Ron FREEMAN,1968 Mexico,Athletics,Men's,400m
+Summer,1968,Bronze,USA,United States,Thomas Francis FARRELL,1968 Mexico,Athletics,Men's,800m
+Summer,1968,Silver,USA,United States,Jim RYUN,1968 Mexico,Athletics,Men's,1500m
+Summer,1968,Gold,USA,United States,Willie DAVENPORT,1968 Mexico,Athletics,Men's,110m hurdles
+Summer,1968,Silver,USA,United States,Ervin HALL,1968 Mexico,Athletics,Men's,110m hurdles
+Summer,1968,Bronze,USA,United States,George YOUNG,1968 Mexico,Athletics,Men's,3000m steeplechase
+Summer,1968,Gold,USA,United States,"Ronnie Ray SMITH, Charlie GREENE, Melvin Jr. PENDER, Jim HINES",1968 Mexico,Athletics,Men's,4x100m relay
+Summer,1968,Gold,USA,United States,"Lee EVANS, Vince MATTHEWS, Ron FREEMAN, Larry JAMES",1968 Mexico,Athletics,Men's,4x400m relay
+Summer,1968,Bronze,USA,United States,Larry YOUNG,1968 Mexico,Athletics,Men's,50km walk
+Summer,1968,Gold,USA,United States,Bob BEAMON,1968 Mexico,Athletics,Men's,long jump
+Summer,1968,Bronze,USA,United States,Ralph BOSTON,1968 Mexico,Athletics,Men's,long jump
+Summer,1968,Gold,USA,United States,Dick FOSBURY,1968 Mexico,Athletics,Men's,high jump
+Summer,1968,Silver,USA,United States,Edward J. Jr. CARUTHERS,1968 Mexico,Athletics,Men's,high jump
+Summer,1968,Gold,USA,United States,Bob SEAGREN,1968 Mexico,Athletics,Men's,pole vault
+Summer,1968,Gold,USA,United States,Randy MATSON,1968 Mexico,Athletics,Men's,shot put
+Summer,1968,Silver,USA,United States,George WOODS,1968 Mexico,Athletics,Men's,shot put
+Summer,1968,Gold,USA,United States,Al OERTER,1968 Mexico,Athletics,Men's,discus throw
+Summer,1968,Gold,USA,United States,Bill TOOMEY,1968 Mexico,Athletics,Men's,decathlon
+Summer,1968,Gold,USA,United States,Wyomia TYUS,1968 Mexico,Athletics,Women's,100m
+Summer,1968,Silver,USA,United States,Barbara FERRELL,1968 Mexico,Athletics,Women's,100m
+Summer,1968,Gold,USA,United States,Madeline MANNING-JACKSON,1968 Mexico,Athletics,Women's,800m
+Summer,1968,Gold,USA,United States,"Mildrette NETTER, Barbara FERRELL, Margaret BAILES, Wyomia TYUS",1968 Mexico,Athletics,Women's,4x100m relay
+Summer,1972,Silver,USA,United States,Robert TAYLOR,1972 Munich,Athletics,Men's,100m
+Summer,1972,Silver,USA,United States,Larry BLACK,1972 Munich,Athletics,Men's,200m
+Summer,1972,Gold,USA,United States,Vince MATTHEWS,1972 Munich,Athletics,Men's,400m
+Summer,1972,Silver,USA,United States,Wayne COLLETT,1972 Munich,Athletics,Men's,400m
+Summer,1972,Gold,USA,United States,David James WOTTLE,1972 Munich,Athletics,Men's,800m
+Summer,1972,Gold,USA,United States,Frank Charles SHORTER,1972 Munich,Athletics,Men's,marathon
+Summer,1972,Gold,USA,United States,Rod MILBURN,1972 Munich,Athletics,Men's,110m hurdles
+Summer,1972,Bronze,USA,United States,Thomas HILL,1972 Munich,Athletics,Men's,110m hurdles
+Summer,1972,Silver,USA,United States,Ralph MANN,1972 Munich,Athletics,Men's,400m hurdles
+Summer,1972,Gold,USA,United States,"Robert TAYLOR, Gerald TINKER, Eddie HART, Larry BLACK",1972 Munich,Athletics,Men's,4x100m relay
+Summer,1972,Bronze,USA,United States,Larry YOUNG,1972 Munich,Athletics,Men's,50km walk
+Summer,1972,Gold,USA,United States,Randel Luvelle WILLIAMS,1972 Munich,Athletics,Men's,long jump
+Summer,1972,Bronze,USA,United States,Arnie ROBINSON,1972 Munich,Athletics,Men's,long jump
+Summer,1972,Bronze,USA,United States,Dwight STONES,1972 Munich,Athletics,Men's,high jump
+Summer,1972,Silver,USA,United States,Bob SEAGREN,1972 Munich,Athletics,Men's,pole vault
+Summer,1972,Bronze,USA,United States,Jan JOHNSON,1972 Munich,Athletics,Men's,pole vault
+Summer,1972,Silver,USA,United States,George WOODS,1972 Munich,Athletics,Men's,shot put
+Summer,1972,Silver,USA,United States,L.Jay SILVESTER,1972 Munich,Athletics,Men's,discus throw
+Summer,1972,Bronze,USA,United States,William David SCHMIDT,1972 Munich,Athletics,Men's,javelin throw
+Summer,1972,Bronze,USA,United States,Kathleen HAMMOND,1972 Munich,Athletics,Women's,400m
+Summer,1972,Silver,USA,United States,"Mabel FERGERSON, Cheryl TOUSSAINT, Madeline MANNING-JACKSON, Kathleen HAMMOND",1972 Munich,Athletics,Women's,4x400m relay
+Summer,1972,Bronze,USA,United States,Kathryn Joan SCHMIDT,1972 Munich,Athletics,Women's,javelin throw
+Summer,1976,Silver,USA,United States,Millard Frank Jr. HAMPTON,1976 Montreal,Athletics,Men's,200m
+Summer,1976,Bronze,USA,United States,Dwayne Eugene EVANS,1976 Montreal,Athletics,Men's,200m
+Summer,1976,Silver,USA,United States,Frederick Vaughn NEWHOUSE,1976 Montreal,Athletics,Men's,400m
+Summer,1976,Bronze,USA,United States,Herman Ronald FRAZIER,1976 Montreal,Athletics,Men's,400m
+Summer,1976,Bronze,USA,United States,Richard Charles WOHLHUTER,1976 Montreal,Athletics,Men's,800m
+Summer,1976,Silver,USA,United States,Frank Charles SHORTER,1976 Montreal,Athletics,Men's,marathon
+Summer,1976,Bronze,USA,United States,Willie DAVENPORT,1976 Montreal,Athletics,Men's,110m hurdles
+Summer,1976,Gold,USA,United States,Edwin MOSES,1976 Montreal,Athletics,Men's,400m hurdles
+Summer,1976,Silver,USA,United States,Michael Lyle SHINE,1976 Montreal,Athletics,Men's,400m hurdles
+Summer,1976,Gold,USA,United States,"Millard Frank Jr. HAMPTON, Harvey Edward GLANCE, John Wesley JONES, Steven Earl RIDDICK",1976 Montreal,Athletics,Men's,4x100m relay
+Summer,1976,Gold,USA,United States,"Herman Ronald FRAZIER, Frederick Vaughn NEWHOUSE, Benjamin Gene BROWN, Maxwell Lander PARKS",1976 Montreal,Athletics,Men's,4x400m relay
+Summer,1976,Gold,USA,United States,Arnie ROBINSON,1976 Montreal,Athletics,Men's,long jump
+Summer,1976,Silver,USA,United States,Randel Luvelle WILLIAMS,1976 Montreal,Athletics,Men's,long jump
+Summer,1976,Silver,USA,United States,James BUTTS,1976 Montreal,Athletics,Men's,triple jump
+Summer,1976,Bronze,USA,United States,Dwight STONES,1976 Montreal,Athletics,Men's,high jump
+Summer,1976,Bronze,USA,United States,David Luther ROBERTS,1976 Montreal,Athletics,Men's,pole vault
+Summer,1976,Gold,USA,United States,Mac WILKINS,1976 Montreal,Athletics,Men's,discus throw
+Summer,1976,Bronze,USA,United States,John POWELL,1976 Montreal,Athletics,Men's,discus throw
+Summer,1976,Gold,USA,United States,Bruce JENNER,1976 Montreal,Athletics,Men's,decathlon
+Summer,1976,Silver,USA,United States,"Rosalyn Evette BRYANT, Pamela GREENE-JILES, Sheila Rena INGRAM, Deborah Elaine SAPENTER",1976 Montreal,Athletics,Women's,4x400m relay
+Summer,1976,Silver,USA,United States,Catherine Laverne MCMILLAN,1976 Montreal,Athletics,Women's,long jump
+Summer,1976,Bronze,USA,United States,Kathryn Joan SCHMIDT,1976 Montreal,Athletics,Women's,javelin throw
+Summer,1984,Gold,USA,United States,Carl LEWIS,1984 Los Angeles,Athletics,Men's,100m
+Summer,1984,Silver,USA,United States,Samuel Louis GRADDY,1984 Los Angeles,Athletics,Men's,100m
+Summer,1984,Gold,USA,United States,Carl LEWIS,1984 Los Angeles,Athletics,Men's,200m
+Summer,1984,Silver,USA,United States,Kirk BAPTISTE,1984 Los Angeles,Athletics,Men's,200m
+Summer,1984,Bronze,USA,United States,Thomas Theodore JEFFERSON,1984 Los Angeles,Athletics,Men's,200m
+Summer,1984,Gold,USA,United States,Alonzo C. BABERS,1984 Los Angeles,Athletics,Men's,400m
+Summer,1984,Bronze,USA,United States,Antonio Ricardo MCKAY,1984 Los Angeles,Athletics,Men's,400m
+Summer,1984,Bronze,USA,United States,Earl JONES,1984 Los Angeles,Athletics,Men's,800m
+Summer,1984,Gold,USA,United States,Roger KINGDOM,1984 Los Angeles,Athletics,Men's,110m hurdles
+Summer,1984,Silver,USA,United States,Gregory FOSTER,1984 Los Angeles,Athletics,Men's,110m hurdles
+Summer,1984,Gold,USA,United States,Edwin MOSES,1984 Los Angeles,Athletics,Men's,400m hurdles
+Summer,1984,Silver,USA,United States,Daniel Lee HARRIS,1984 Los Angeles,Athletics,Men's,400m hurdles
+Summer,1984,Bronze,USA,United States,Brian Lee DIEMER,1984 Los Angeles,Athletics,Men's,3000m steeplechase
+Summer,1984,Gold,USA,United States,"Samuel Louis GRADDY, Calvin SMITH, Ronald James BROWN, Carl LEWIS",1984 Los Angeles,Athletics,Men's,4x100m relay
+Summer,1984,Gold,USA,United States,"Sunder L. NIX, Alonzo C. BABERS, Raymond ARMSTEAD, Antonio Ricardo MCKAY",1984 Los Angeles,Athletics,Men's,4x400m relay
+Summer,1984,Gold,USA,United States,Carl LEWIS,1984 Los Angeles,Athletics,Men's,long jump
+Summer,1984,Gold,USA,United States,Alfredrick Alphonzo JOYNER,1984 Los Angeles,Athletics,Men's,triple jump
+Summer,1984,Silver,USA,United States,Mike CONLEY,1984 Los Angeles,Athletics,Men's,triple jump
+Summer,1984,Silver,USA,United States,Michael Scott TULLY,1984 Los Angeles,Athletics,Men's,pole vault
+Summer,1984,Bronze,USA,United States,Earl Holmes BELL,1984 Los Angeles,Athletics,Men's,pole vault
+Summer,1984,Silver,USA,United States,Malcolm Maurice WILKINS,1984 Los Angeles,Athletics,Men's,discus throw
+Summer,1984,Bronze,USA,United States,John Gates POWELL,1984 Los Angeles,Athletics,Men's,discus throw
+Summer,1984,Silver,USA,United States,Michael D'Andrea CARTER,1984 Los Angeles,Athletics,Men's,shot put
+Summer,1984,Bronze,USA,United States,David Lester LAUT,1984 Los Angeles,Athletics,Men's,shot put
+Summer,1984,Gold,USA,United States,Evelyn ASHFORD,1984 Los Angeles,Athletics,Women's,100m
+Summer,1984,Silver,USA,United States,Alice Regina BROWN,1984 Los Angeles,Athletics,Women's,100m
+Summer,1984,Gold,USA,United States,Valerie Ann BRISCO-HOOKS,1984 Los Angeles,Athletics,Women's,200m
+Summer,1984,Silver,USA,United States,Florence GRIFFITH-JOYNER,1984 Los Angeles,Athletics,Women's,200m
+Summer,1984,Gold,USA,United States,Valerie Ann BRISCO-HOOKS,1984 Los Angeles,Athletics,Women's,400m
+Summer,1984,Silver,USA,United States,Chandra Danette CHEESEBOROUGH,1984 Los Angeles,Athletics,Women's,400m
+Summer,1984,Silver,USA,United States,Kimberley Ann GALLAGHER,1984 Los Angeles,Athletics,Women's,800m
+Summer,1984,Gold,USA,United States,Joan BENOIT,1984 Los Angeles,Athletics,Women's,marathon
+Summer,1984,Gold,USA,United States,Benita FITZGERALD-BROWN,1984 Los Angeles,Athletics,Women's,100m hurdles
+Summer,1984,Bronze,USA,United States,Kim TURNER,1984 Los Angeles,Athletics,Women's,100m hurdles
+Summer,1984,Silver,USA,United States,Judith Lynne BROWN,1984 Los Angeles,Athletics,Women's,400m hurdles
+Summer,1984,Gold,USA,United States,"Jeanette BOLDEN, Evelyn ASHFORD, Alice Regina BROWN, Chandra Danette CHEESEBOROUGH",1984 Los Angeles,Athletics,Women's,4x100m relay
+Summer,1984,Gold,USA,United States,"Sherryl Frances HOWARD, Chandra Danette CHEESEBOROUGH, Lillie Mae LEATHERWOOD-KING, Valerie Ann BRISCO-HOOKS",1984 Los Angeles,Athletics,Women's,4x400m relay
+Summer,1984,Bronze,USA,United States,Johanna Luann HUNTLEY,1984 Los Angeles,Athletics,Women's,high jump
+Summer,1984,Silver,USA,United States,Leslie Jean DENIZ,1984 Los Angeles,Athletics,Women's,discus throw
+Summer,1984,Silver,USA,United States,Jackie JOYNER-KERSEE,1984 Los Angeles,Athletics,Women's,heptathlon
+Summer,1988,Gold,USA,United States,Carl LEWIS,1988 Seoul,Athletics,Men's,100m
+Summer,1988,Bronze,USA,United States,Calvin SMITH,1988 Seoul,Athletics,Men's,100m
+Summer,1988,Gold,USA,United States,Joseph Nathaniel Jr. DELOACH,1988 Seoul,Athletics,Men's,200m
+Summer,1988,Silver,USA,United States,Carl LEWIS,1988 Seoul,Athletics,Men's,200m
+Summer,1988,Gold,USA,United States,Steve LEWIS,1988 Seoul,Athletics,Men's,400m
+Summer,1988,Silver,USA,United States,Harry Butch REYNOLDS,1988 Seoul,Athletics,Men's,400m
+Summer,1988,Bronze,USA,United States,Daniel EVERETT,1988 Seoul,Athletics,Men's,400m
+Summer,1988,Gold,USA,United States,Roger KINGDOM,1988 Seoul,Athletics,Men's,110m hurdles
+Summer,1988,Bronze,USA,United States,Anthony Eugene CAMPBELL,1988 Seoul,Athletics,Men's,110m hurdles
+Summer,1988,Gold,USA,United States,Andre Lamar PHILLIPS,1988 Seoul,Athletics,Men's,400m hurdles
+Summer,1988,Bronze,USA,United States,Edwin MOSES,1988 Seoul,Athletics,Men's,400m hurdles
+Summer,1988,Gold,USA,United States,"Daniel EVERETT, Kevin Bernard ROBINZINE, Steve LEWIS, Harry Butch REYNOLDS",1988 Seoul,Athletics,Men's,4x400m relay
+Summer,1988,Gold,USA,United States,Carl LEWIS,1988 Seoul,Athletics,Men's,long jump
+Summer,1988,Silver,USA,United States,Michael Anthony POWELL,1988 Seoul,Athletics,Men's,long jump
+Summer,1988,Bronze,USA,United States,Lawrence Ellwyne MYRICKS,1988 Seoul,Athletics,Men's,long jump
+Summer,1988,Silver,USA,United States,Hollis CONWAY,1988 Seoul,Athletics,Men's,high jump
+Summer,1988,Silver,USA,United States,Eric Randolph BARNES,1988 Seoul,Athletics,Men's,shot put
+Summer,1988,Gold,USA,United States,Florence GRIFFITH-JOYNER,1988 Seoul,Athletics,Women's,100m
+Summer,1988,Silver,USA,United States,Evelyn ASHFORD,1988 Seoul,Athletics,Women's,100m
+Summer,1988,Gold,USA,United States,Florence GRIFFITH-JOYNER,1988 Seoul,Athletics,Women's,200m
+Summer,1988,Bronze,USA,United States,Kimberley Ann GALLAGHER,1988 Seoul,Athletics,Women's,800m
+Summer,1988,Gold,USA,United States,"Sheila ECHOLS, Evelyn ASHFORD, Alice Regina BROWN, Florence GRIFFITH-JOYNER",1988 Seoul,Athletics,Women's,4x100m relay
+Summer,1988,Silver,USA,United States,"Florence GRIFFITH-JOYNER, Diane Lynn DIXON, Valerie Ann BRISCO-HOOKS, Denean Elizabeth HOWARD-HILL",1988 Seoul,Athletics,Women's,4x400m relay
+Summer,1988,Gold,USA,United States,Jackie JOYNER-KERSEE,1988 Seoul,Athletics,Women's,long jump
+Summer,1988,Gold,USA,United States,Dorothy Louise RITTER,1988 Seoul,Athletics,Women's,high jump
+Summer,1988,Gold,USA,United States,Jackie JOYNER-KERSEE,1988 Seoul,Athletics,Women's,heptathlon
+Summer,1992,Bronze,USA,United States,Dennis MITCHELL,1992 Barcelona,Athletics,Men's,100m
+Summer,1992,Gold,USA,United States,Michael MARSH,1992 Barcelona,Athletics,Men's,200m
+Summer,1992,Bronze,USA,United States,Michael D. BATES,1992 Barcelona,Athletics,Men's,200m
+Summer,1992,Gold,USA,United States,Quincy WATTS,1992 Barcelona,Athletics,Men's,400m
+Summer,1992,Silver,USA,United States,Steve LEWIS,1992 Barcelona,Athletics,Men's,400m
+Summer,1992,Bronze,USA,United States,Johnny Lee Jr GRAY,1992 Barcelona,Athletics,Men's,800m
+Summer,1992,Silver,USA,United States,Tony DEES,1992 Barcelona,Athletics,Men's,110m hurdles
+Summer,1992,Bronze,USA,United States,Jack PIERCE,1992 Barcelona,Athletics,Men's,110m hurdles
+Summer,1992,Gold,USA,United States,Kevin Curtis YOUNG,1992 Barcelona,Athletics,Men's,400m hurdles
+Summer,1992,Gold,USA,United States,"Carl LEWIS, Leroy BURRELL, James JETT, Dennis MITCHELL, Michael MARSH",1992 Barcelona,Athletics,Men's,4x100m relay
+Summer,1992,Gold,USA,United States,"Michael JOHNSON, Darnell HALL, Andrew VALMON, Steve LEWIS, Charles L. JENKINS, Quincy WATTS",1992 Barcelona,Athletics,Men's,4x400m relay
+Summer,1992,Gold,USA,United States,Carl LEWIS,1992 Barcelona,Athletics,Men's,long jump
+Summer,1992,Silver,USA,United States,Michael Anthony POWELL,1992 Barcelona,Athletics,Men's,long jump
+Summer,1992,Bronze,USA,United States,Joe GREENE,1992 Barcelona,Athletics,Men's,long jump
+Summer,1992,Gold,USA,United States,Mike CONLEY,1992 Barcelona,Athletics,Men's,triple jump
+Summer,1992,Silver,USA,United States,Charles SIMPKINS,1992 Barcelona,Athletics,Men's,triple jump
+Summer,1992,Bronze,USA,United States,Hollis CONWAY,1992 Barcelona,Athletics,Men's,high jump
+Summer,1992,Gold,USA,United States,Michael D. STULCE,1992 Barcelona,Athletics,Men's,shot put
+Summer,1992,Silver,USA,United States,James DOEHRING,1992 Barcelona,Athletics,Men's,shot put
+Summer,1992,Bronze,USA,United States,David Allan JOHNSON,1992 Barcelona,Athletics,Men's,decathlon
+Summer,1992,Gold,USA,United States,Gail DEVERS,1992 Barcelona,Athletics,Women's,100m
+Summer,1992,Gold,USA,United States,Gwen TORRENCE,1992 Barcelona,Athletics,Women's,200m
+Summer,1992,Bronze,USA,United States,Lynn A. JENNINGS,1992 Barcelona,Athletics,Women's,10000m
+Summer,1992,Silver,USA,United States,La Vona Ann MARTIN,1992 Barcelona,Athletics,Women's,100m hurdles
+Summer,1992,Silver,USA,United States,Sandra FARMER-PATRICK,1992 Barcelona,Athletics,Women's,400m hurdles
+Summer,1992,Bronze,USA,United States,Janeene VICKERS,1992 Barcelona,Athletics,Women's,400m hurdles
+Summer,1992,Gold,USA,United States,"Evelyn ASHFORD, Esther JONES, Gwen TORRENCE, Carlette D. GUIDRY-WHITE, Michelle FINN",1992 Barcelona,Athletics,Women's,4x100m relay
+Summer,1992,Silver,USA,United States,"Gwen TORRENCE, Rochelle STEVENS, Denean HILL, Dannette YOUNG, Jearl MILES, Natasha KAISER",1992 Barcelona,Athletics,Women's,4x400m relay
+Summer,1992,Bronze,USA,United States,Jackie JOYNER-KERSEE,1992 Barcelona,Athletics,Women's,long jump
+Summer,1992,Gold,USA,United States,Jackie JOYNER-KERSEE,1992 Barcelona,Athletics,Women's,heptathlon
+Summer,1996,Gold,USA,United States,Джонсон,1996 Atlanta,Athletics,Men's,200m
+Summer,1996,Gold,USA,United States,Джонсон,1996 Atlanta,Athletics,Men's,400m
+Summer,1996,Gold,USA,United States,Джонсон,1996 Atlanta,Athletics,Men's,110m hurdles
+Summer,1996,Silver,USA,United States,Крир,1996 Atlanta,Athletics,Men's,110m hurdles
+Summer,1996,Gold,USA,United States,Адкинс,1996 Atlanta,Athletics,Men's,400m hurdles
+Summer,1996,Bronze,USA,United States,Дэвис,1996 Atlanta,Athletics,Men's,400m hurdles
+Summer,1996,Silver,USA,United States,"Драммонд, Марш, Харден, Митчелл",1996 Atlanta,Athletics,Men's,4x100m relay
+Summer,1996,Gold,USA,United States,"Смит, Миллс, Харрисон, Мэйбенк",1996 Atlanta,Athletics,Men's,4x400m relay
+Summer,1996,Gold,USA,United States,Льюис,1996 Atlanta,Athletics,Men's,long jump
+Summer,1996,Bronze,USA,United States,Грин,1996 Atlanta,Athletics,Men's,long jump
+Summer,1996,Gold,USA,United States,Харрисон,1996 Atlanta,Athletics,Men's,triple jump
+Summer,1996,Gold,USA,United States,Остин,1996 Atlanta,Athletics,Men's,high jump
+Summer,1996,Gold,USA,United States,Барнс,1996 Atlanta,Athletics,Men's,shot put
+Summer,1996,Silver,USA,United States,Година,1996 Atlanta,Athletics,Men's,shot put
+Summer,1996,Silver,USA,United States,Дил,1996 Atlanta,Athletics,Men's,hammer throw
+Summer,1996,Gold,USA,United States,О'Брайен,1996 Atlanta,Athletics,Men's,decathlon
+Summer,1996,Gold,USA,United States,Диверс,1996 Atlanta,Athletics,Women's,100m
+Summer,1996,Bronze,USA,United States,Торренс,1996 Atlanta,Athletics,Women's,100m
+Summer,1996,Silver,USA,United States,Баттен,1996 Atlanta,Athletics,Women's,400m hurdles
+Summer,1996,Bronze,USA,United States,Бьюфорд-Бэйли,1996 Atlanta,Athletics,Women's,400m hurdles
+Summer,1996,Gold,USA,United States,"Диверс, Торренс, Гейнс, Миллер",1996 Atlanta,Athletics,Women's,4x100m relay
+Summer,1996,Gold,USA,United States,"Стивенс, Грэхем, Мелон, Майлз",1996 Atlanta,Athletics,Women's,4x400m relay
+Summer,1996,Bronze,USA,United States,Джойнер-Керси,1996 Atlanta,Athletics,Women's,long jump
+Summer,2000,Gold,USA,United States,Морис Грин,2000 Sydney,Athletics,Men's,100m
+Summer,2000,Gold,USA,United States,Майкл Джонсон,2000 Sydney,Athletics,Men's,400m
+Summer,2000,Silver,USA,United States,Элвин Харрисон,2000 Sydney,Athletics,Men's,400m
+Summer,2000,Silver,USA,United States,Терренс Траммел,2000 Sydney,Athletics,Men's,110m hurdles
+Summer,2000,Bronze,USA,United States,Марк Крир,2000 Sydney,Athletics,Men's,110m hurdles
+Summer,2000,Gold,USA,United States,Энджело Тейлор,2000 Sydney,Athletics,Men's,400m hurdles
+Summer,2000,Gold,USA,United States,"Морис Грин, Кеннет Брокенбарр, Бернард Уильямс, Брайан Льюис, Тим Монтгомери, Джон Драммонд",2000 Sydney,Athletics,Men's,4x100m relay
+Summer,2000,Gold,USA,United States,Ник Хайсонг,2000 Sydney,Athletics,Men's,pole vault
+Summer,2000,Silver,USA,United States,Лоуренс Джонсон,2000 Sydney,Athletics,Men's,pole vault
+Summer,2000,Silver,USA,United States,Эдам Нельсон,2000 Sydney,Athletics,Men's,shot put
+Summer,2000,Bronze,USA,United States,Джон Година,2000 Sydney,Athletics,Men's,shot put
+Summer,2000,Bronze,USA,United States,Крис Хаффинс,2000 Sydney,Athletics,Men's,decathlon
+Summer,2000,Bronze,USA,United States,Мелисса Моррисон,2000 Sydney,Athletics,Women's,100m hurdles
+Summer,2000,Bronze,USA,United States,"Кристи Гейнс, Нэнсин Пэрри, Торри Эдвардс, Пэшен Ричардсон",2000 Sydney,Athletics,Women's,4x100m relay
+Summer,2000,Gold,USA,United States,"Ла-Таша Коландер-Ричардсон, Джирл Майлз-Кларк, Андреа Андерсон, Моник Хеннаган",2000 Sydney,Athletics,Women's,4x400m relay
+Summer,2000,Gold,USA,United States,Стэйси Драгила,2000 Sydney,Athletics,Women's,pole vault
+Summer,2004,Gold,USA,United States,Джастин Гэтлин,2004 Athens,Athletics,Men's,100m
+Summer,2004,Bronze,USA,United States,Морис Грин,2004 Athens,Athletics,Men's,100m
+Summer,2004,Gold,USA,United States,Шон Кроуфорд,2004 Athens,Athletics,Men's,200m
+Summer,2004,Silver,USA,United States,Бернард Уильямс,2004 Athens,Athletics,Men's,200m
+Summer,2004,Bronze,USA,United States,Джастин Гэтлин,2004 Athens,Athletics,Men's,200m
+Summer,2004,Gold,USA,United States,Джереми Варинер,2004 Athens,Athletics,Men's,400m
+Summer,2004,Silver,USA,United States,Отис Харрис,2004 Athens,Athletics,Men's,400m
+Summer,2004,Bronze,USA,United States,Деррик Блю,2004 Athens,Athletics,Men's,400m
+Summer,2004,Silver,USA,United States,Мебратом Кефлезиги,2004 Athens,Athletics,Men's,marathon
+Summer,2004,Silver,USA,United States,Терренс Траммел,2004 Athens,Athletics,Men's,110m hurdles
+Summer,2004,Silver,USA,United States,,2004 Athens,Athletics,Men's,4x100m relay
+Summer,2004,Gold,USA,United States,,2004 Athens,Athletics,Men's,4x400m relay
+Summer,2004,Gold,USA,United States,Дуайт Филлипс,2004 Athens,Athletics,Men's,long jump
+Summer,2004,Silver,USA,United States,Джон Моффитт,2004 Athens,Athletics,Men's,long jump
+Summer,2004,Silver,USA,United States,Мэтт Хэмингуэй,2004 Athens,Athletics,Men's,high jump
+Summer,2004,Gold,USA,United States,Тимоти Мэк,2004 Athens,Athletics,Men's,pole vault
+Summer,2004,Silver,USA,United States,Тоби Стивенсон,2004 Athens,Athletics,Men's,pole vault
+Summer,2004,Gold,USA,United States,Адам Нельсон,2004 Athens,Athletics,Men's,shot put
+Summer,2004,Silver,USA,United States,Брайан Клэй,2004 Athens,Athletics,Men's,decathlon
+Summer,2004,Silver,USA,United States,Лорин Уилльямс,2004 Athens,Athletics,Women's,100m
+Summer,2004,Silver,USA,United States,Эллисон Феликс,2004 Athens,Athletics,Women's,200m
+Summer,2004,Bronze,USA,United States,Дина Кастор,2004 Athens,Athletics,Women's,marathon
+Summer,2004,Gold,USA,United States,Джоанна Хэйс,2004 Athens,Athletics,Women's,100m hurdles
+Summer,2004,Bronze,USA,United States,Мелисса Мориссон,2004 Athens,Athletics,Women's,100m hurdles
+Summer,2004,Gold,USA,United States,,2004 Athens,Athletics,Women's,4x400m relay
+Summer,2008,Bronze,USA,United States,Walter DIX,2008 Beijing,Athletics,Men's,100m
+Summer,2008,Silver,USA,United States,Shawn CRAWFORD,2008 Beijing,Athletics,Men's,200m
+Summer,2008,Bronze,USA,United States,Walter DIX,2008 Beijing,Athletics,Men's,200m
+Summer,2008,Gold,USA,United States,LaShawn MERRITT,2008 Beijing,Athletics,Men's,400m
+Summer,2008,Silver,USA,United States,Jeremy WARINER,2008 Beijing,Athletics,Men's,400m
+Summer,2008,Bronze,USA,United States,David NEVILLE,2008 Beijing,Athletics,Men's,400m
+Summer,2008,Silver,USA,United States,David PAYNE,2008 Beijing,Athletics,Men's,110m hurdles
+Summer,2008,Bronze,USA,United States,David OLIVER,2008 Beijing,Athletics,Men's,110m hurdles
+Summer,2008,Gold,USA,United States,Angelo TAYLOR,2008 Beijing,Athletics,Men's,400m hurdles
+Summer,2008,Silver,USA,United States,Kerron CLEMENT,2008 Beijing,Athletics,Men's,400m hurdles
+Summer,2008,Bronze,USA,United States,Bershawn JACKSON,2008 Beijing,Athletics,Men's,400m hurdles
+Summer,2008,Gold,USA,United States,"David NEVILLE, Jeremy WARINER, LaShawn MERRITT, Angelo TAYLOR",2008 Beijing,Athletics,Men's,4x400m relay
+Summer,2008,Bronze,USA,United States,Derek MILES,2008 Beijing,Athletics,Men's,pole vault
+Summer,2008,Silver,USA,United States,Christian CANTWELL,2008 Beijing,Athletics,Men's,shot put
+Summer,2008,Gold,USA,United States,Bryan CLAY,2008 Beijing,Athletics,Men's,decathlon
+Summer,2008,Silver,USA,United States,Allyson FELIX,2008 Beijing,Athletics,Women's,200m
+Summer,2008,Bronze,USA,United States,Sanya RICHARDS-ROSS,2008 Beijing,Athletics,Women's,400m
+Summer,2008,Silver,USA,United States,Shalane FLANAGAN,2008 Beijing,Athletics,Women's,10000m
+Summer,2008,Gold,USA,United States,Dawn HARPER,2008 Beijing,Athletics,Women's,100m hurdles
+Summer,2008,Silver,USA,United States,Sheena TOSTA,2008 Beijing,Athletics,Women's,400m hurdles
+Summer,2008,Gold,USA,United States,"Monique HENDERSON, Mary WINEBERG, Allyson FELIX, Sanya RICHARDS-ROSS",2008 Beijing,Athletics,Women's,4x400m relay
+Summer,2008,Bronze,USA,United States,Chaunte Howard,2008 Beijing,Athletics,Women's,high jump
+Summer,2008,Silver,USA,United States,Jennifer STUCZYNSKI,2008 Beijing,Athletics,Women's,pole vault
+Summer,2008,Gold,USA,United States,Stephanie BROWN TRAFTON,2008 Beijing,Athletics,Women's,discus throw
+Summer,2008,Silver,USA,United States,Hyleas FOUNTAIN,2008 Beijing,Athletics,Women's,heptathlon
+Summer,2012,Bronze,USA,United States,Justin GATLIN,2012 London,Athletics,Men's,100m
+Summer,2012,Silver,USA,United States,Leonel MANZANO,2012 London,Athletics,Men's,1500m
+Summer,2012,Silver,USA,United States,Galen RUPP,2012 London,Athletics,Men's,10000m
+Summer,2012,Gold,USA,United States,Aries MERRITT,2012 London,Athletics,Men's,110m hurdles
+Summer,2012,Silver,USA,United States,Jason RICHARDSON,2012 London,Athletics,Men's,110m hurdles
+Summer,2012,Silver,USA,United States,Michael TINSLEY,2012 London,Athletics,Men's,400m hurdles
+Summer,2012,Silver,USA,United States,"Angelo TAYLOR, Joshua MANCE, Bryshon NELLUM, Manteo MITCHELL, Tony MCQUAY",2012 London,Athletics,Men's,4x400m relay
+Summer,2012,Bronze,USA,United States,Will CLAYE,2012 London,Athletics,Men's,long jump
+Summer,2012,Gold,USA,United States,Christian TAYLOR,2012 London,Athletics,Men's,triple jump
+Summer,2012,Silver,USA,United States,Will CLAYE,2012 London,Athletics,Men's,triple jump
+Summer,2012,Gold,USA,United States,Erik KYNARD,2012 London,Athletics,Men's,high jump
+Summer,2012,Bronze,USA,United States,Reese HOFFA,2012 London,Athletics,Men's,shot put
+Summer,2012,Gold,USA,United States,Ashton EATON,2012 London,Athletics,Men's,decathlon
+Summer,2012,Silver,USA,United States,Trey HARDEE,2012 London,Athletics,Men's,decathlon
+Summer,2012,Silver,USA,United States,Carmelita JETER,2012 London,Athletics,Women's,100m
+Summer,2012,Gold,USA,United States,Allyson FELIX,2012 London,Athletics,Women's,200m
+Summer,2012,Bronze,USA,United States,Carmelita JETER,2012 London,Athletics,Women's,200m
+Summer,2012,Gold,USA,United States,Sanya RICHARDS-ROSS,2012 London,Athletics,Women's,400m
+Summer,2012,Bronze,USA,United States,Deedee TROTTER,2012 London,Athletics,Women's,400m
+Summer,2012,Silver,USA,United States,Dawn HARPER,2012 London,Athletics,Women's,100m hurdles
+Summer,2012,Bronze,USA,United States,Kellie WELLS,2012 London,Athletics,Women's,100m hurdles
+Summer,2012,Gold,USA,United States,Lashinda DEMUS,2012 London,Athletics,Women's,400m hurdles
+Summer,2012,Gold,USA,United States,"Bianca KNIGHT, Carmelita JETER, Tianna MADISON, Lauryn WILLIAMS, Allyson FELIX, Jeneba TARMOH",2012 London,Athletics,Women's,4x100m relay
+Summer,2012,Gold,USA,United States,"Deedee TROTTER, Allyson FELIX, Keshia BAKER, Francena MCCORORY, Diamond DIXON, Sanya RICHARDS-ROSS",2012 London,Athletics,Women's,4x400m relay
+Summer,2012,Gold,USA,United States,Brittney REESE,2012 London,Athletics,Women's,long jump
+Summer,2012,Bronze,USA,United States,Janay DELOACH,2012 London,Athletics,Women's,long jump
+Summer,2012,Silver,USA,United States,Brigetta BARRETT,2012 London,Athletics,Women's,high jump
+Summer,2012,Gold,USA,United States,Jennifer STUCZYNSKI,2012 London,Athletics,Women's,pole vault
+Summer,2016,Silver,USA,United States,GATLIN Justin,2016 Rio de Janeiro,Athletics,Men's,100m
+Summer,2016,Bronze,USA,United States,MERRITT Lashawn,2016 Rio de Janeiro,Athletics,Men's,400m
+Summer,2016,Bronze,USA,United States,MURPHY Clayton,2016 Rio de Janeiro,Athletics,Men's,800m
+Summer,2016,Gold,USA,United States,CENTROWITZ Matthew,2016 Rio de Janeiro,Athletics,Men's,1500m
+Summer,2016,Silver,USA,United States,CHELIMO Paul Kipkemoi,2016 Rio de Janeiro,Athletics,Men's,5000m
+Summer,2016,Bronze,USA,United States,RUPP Galen,2016 Rio de Janeiro,Athletics,Men's,marathon
+Summer,2016,Gold,USA,United States,CLEMENT Kerron,2016 Rio de Janeiro,Athletics,Men's,400m hurdles
+Summer,2016,Silver,USA,United States,JAGER Evan,2016 Rio de Janeiro,Athletics,Men's,3000m steeplechase
+Summer,2016,Gold,USA,United States,United States,2016 Rio de Janeiro,Athletics,Men's,4x400m relay
+Summer,2016,Gold,USA,United States,HENDERSON Jeff,2016 Rio de Janeiro,Athletics,Men's,long jump
+Summer,2016,Gold,USA,United States,TAYLOR Christian,2016 Rio de Janeiro,Athletics,Men's,triple jump
+Summer,2016,Silver,USA,United States,CLAYE Will,2016 Rio de Janeiro,Athletics,Men's,triple jump
+Summer,2016,Bronze,USA,United States,KENDRICKS Sam,2016 Rio de Janeiro,Athletics,Men's,pole vault
+Summer,2016,Gold,USA,United States,CROUSER Ryan,2016 Rio de Janeiro,Athletics,Men's,shot put
+Summer,2016,Silver,USA,United States,KOVACS Joe,2016 Rio de Janeiro,Athletics,Men's,shot put
+Summer,2016,Gold,USA,United States,EATON Ashton,2016 Rio de Janeiro,Athletics,Men's,decathlon
+Summer,2016,Silver,USA,United States,BOWIE Tori,2016 Rio de Janeiro,Athletics,Women's,100m
+Summer,2016,Bronze,USA,United States,BOWIE Tori,2016 Rio de Janeiro,Athletics,Women's,200m
+Summer,2016,Silver,USA,United States,FELIX Allyson,2016 Rio de Janeiro,Athletics,Women's,400m
+Summer,2016,Bronze,USA,United States,SIMPSON Jennifer,2016 Rio de Janeiro,Athletics,Women's,1500m
+Summer,2016,Gold,USA,United States,ROLLINS Brianna,2016 Rio de Janeiro,Athletics,Women's,100m hurdles
+Summer,2016,Silver,USA,United States,ALI Nia,2016 Rio de Janeiro,Athletics,Women's,100m hurdles
+Summer,2016,Bronze,USA,United States,CASTLIN Kristi,2016 Rio de Janeiro,Athletics,Women's,100m hurdles
+Summer,2016,Gold,USA,United States,MUHAMMAD Dalilah,2016 Rio de Janeiro,Athletics,Women's,400m hurdles
+Summer,2016,Bronze,USA,United States,SPENCER Ashley,2016 Rio de Janeiro,Athletics,Women's,400m hurdles
+Summer,2016,Bronze,USA,United States,COBURN Emma,2016 Rio de Janeiro,Athletics,Women's,3000m steeplechase
+Summer,2016,Gold,USA,United States,United States,2016 Rio de Janeiro,Athletics,Women's,4x100m relay
+Summer,2016,Gold,USA,United States,United States,2016 Rio de Janeiro,Athletics,Women's,4x400m relay
+Summer,2016,Gold,USA,United States,BARTOLETTA Tianna,2016 Rio de Janeiro,Athletics,Women's,long jump
+Summer,2016,Silver,USA,United States,REESE Brittney,2016 Rio de Janeiro,Athletics,Women's,long jump
+Summer,2016,Silver,USA,United States,MORRIS Sandi,2016 Rio de Janeiro,Athletics,Women's,pole vault
+Summer,2016,Gold,USA,United States,CARTER Michelle,2016 Rio de Janeiro,Athletics,Women's,shot put
+Summer,2024,Gold,USA,United States,LYLES Noah,2024 Paris,Athletics,Men's,100m
+Summer,2024,Bronze,USA,United States,KERLEY Fred,2024 Paris,Athletics,Men's,100m
+Summer,2024,Silver,USA,United States,BEDNAREK Kenneth,2024 Paris,Athletics,Men's,200m
+Summer,2024,Bronze,USA,United States,LYLES Noah,2024 Paris,Athletics,Men's,200m
+Summer,2024,Gold,USA,United States,HALL Quincy,2024 Paris,Athletics,Men's,400m
+Summer,2024,Gold,USA,United States,HOCKER Cole,2024 Paris,Athletics,Men's,1500m
+Summer,2024,Bronze,USA,United States,NUGUSE Yared,2024 Paris,Athletics,Men's,1500m
+Summer,2024,Bronze,USA,United States,FISHER Grant,2024 Paris,Athletics,Men's,5000m
+Summer,2024,Bronze,USA,United States,FISHER Grant,2024 Paris,Athletics,Men's,10000m
+Summer,2024,Gold,USA,United States,HOLLOWAY Grant,2024 Paris,Athletics,Men's,110m hurdles
+Summer,2024,Silver,USA,United States,ROBERTS Daniel,2024 Paris,Athletics,Men's,110m hurdles
+Summer,2024,Gold,USA,United States,BENJAMIN Rai,2024 Paris,Athletics,Men's,400m hurdles
+Summer,2024,Silver,USA,United States,ROOKS Kenneth,2024 Paris,Athletics,Men's,3000m steeplechase
+Summer,2024,Gold,USA,United States,"BAILEY Christopher, DEADMON Bryce, WILSON Quincy, NORWOOD Vernon, BENJAMIN Rai",2024 Paris,Athletics,Men's,4x400m relay
+Summer,2024,Silver,USA,United States,McEWEN Shelby,2024 Paris,Athletics,Men's,high jump
+Summer,2024,Silver,USA,United States,KENDRICKS Sam,2024 Paris,Athletics,Men's,pole vault
+Summer,2024,Gold,USA,United States,CROUSER Ryan,2024 Paris,Athletics,Men's,shot put
+Summer,2024,Silver,USA,United States,KOVACS Joe,2024 Paris,Athletics,Men's,shot put
+Summer,2024,Silver,USA,United States,RICHARDSON Sha'carri,2024 Paris,Athletics,Women's,100m
+Summer,2024,Bronze,USA,United States,JEFFERSON Melissa,2024 Paris,Athletics,Women's,100m
+Summer,2024,Gold,USA,United States,THOMAS Gabrielle,2024 Paris,Athletics,Women's,200m
+Summer,2024,Bronze,USA,United States,BROWN Brittany,2024 Paris,Athletics,Women's,200m
+Summer,2024,Gold,USA,United States,RUSSELL Masai,2024 Paris,Athletics,Women's,100m hurdles
+Summer,2024,Gold,USA,United States,McLAUGHLIN-LEVRONE Sydney,2024 Paris,Athletics,Women's,400m hurdles
+Summer,2024,Silver,USA,United States,COCKRELL Anna,2024 Paris,Athletics,Women's,400m hurdles
+Summer,2024,Gold,USA,United States,"TERRY Twanisha, RICHARDSON Sha'carri, JEFFERSON Melissa, THOMAS Gabrielle",2024 Paris,Athletics,Women's,4x100m relay
+Summer,2024,Gold,USA,United States,"THOMAS Gabrielle, BROWN Kaylyn, HAYES Quanera, LITTLE Shamier, McLAUGHLIN-LEVRONE Sydney, HOLMES Alexis, BUTLER Aaliyah",2024 Paris,Athletics,Women's,4x400m relay
+Summer,2024,Gold,USA,United States,DAVIS-WOODHALL Tara,2024 Paris,Athletics,Women's,long jump
+Summer,2024,Bronze,USA,United States,MOORE Jasmine,2024 Paris,Athletics,Women's,long jump
+Summer,2024,Bronze,USA,United States,MOORE Jasmine,2024 Paris,Athletics,Women's,triple jump
+Summer,2024,Silver,USA,United States,MOON Katie,2024 Paris,Athletics,Women's,pole vault
+Summer,2024,Gold,USA,United States,ALLMAN Valarie,2024 Paris,Athletics,Women's,discus throw
+Summer,2024,Silver,USA,United States,ECHIKUNWOKE Annette Nneka,2024 Paris,Athletics,Women's,hammer throw
+Summer,2024,Silver,USA,United States,"LITTLE Shamier, BROWN Kaylyn, NORWOOD Vernon, DEADMON Bryce",2024 Paris,Athletics,Mixed,4x400m relay
